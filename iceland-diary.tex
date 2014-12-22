@@ -8,6 +8,14 @@
 \usepackage[T1]{fontenc}
 \usepackage[polish]{babel}
 
+\usepackage{versions}
+% PDF version
+\includeversion{PDF}
+\excludeversion{HTML}
+% HTML version
+%\includeversion{PDF}
+%\excludeversion{HTML}
+
 %\usepackage{amsmath}
 \usepackage{amsfonts}
 %\usepackage{amssymb}
@@ -86,7 +94,7 @@
 % for file in *.tex; do sed -i "s/\.\.\./…/g" $file; done
 
 % TODO: zamiana “ na ,, oraz ” na ''
-% TODO: zamiana --- na --- we wtrąceniach
+% TODO: wersjonowanie - \processifversion{PDF|HTML}{...}
 
 \begin{document}
 
@@ -95,8 +103,8 @@
 %	\input{07_21.tex}
 %	\input{07_22.tex}
 %	\input{07_23.tex}
-	\input{07_24.tex}
-%	\input{07_25.tex}
+%	\input{07_24.tex}
+	\input{07_25.tex}
 %	\input{07_26.tex}
 %	\input{07_27.tex}
 %	\input{07_28.tex}
