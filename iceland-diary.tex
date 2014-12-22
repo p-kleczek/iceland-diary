@@ -53,7 +53,7 @@
 	%		\adjustbox{valign=c}{
 %	    \includegraphics[valign=m, width=2cm, margin=0 5cm 0cm 0cm]{./icons/bulb.png}
 	%    }
-			\raisebox{-0.8\height}{\includegraphics[width=2cm]{./icons/bulb.png}} & #1 \\
+			\raisebox{-0.8\height}{\includegraphics[width=2cm]{./icons/bulb.png}} & \begingroup #1 \endgroup \\
 		\end{tabular}
 	\end{hintframe}
 	\endgroup
@@ -86,14 +86,15 @@
 % for file in *.tex; do sed -i "s/\.\.\./…/g" $file; done
 
 % TODO: zamiana “ na ,, oraz ” na ''
+% TODO: zamiana - na --- we wtrąceniach
 
 \begin{document}
 
 %	\input{intro.tex}
 %
 %	\input{07_21.tex}
-	\input{07_22.tex}
-%	\input{07_23.tex}
+%	\input{07_22.tex}
+	\input{07_23.tex}
 %	\input{07_24.tex}
 %	\input{07_25.tex}
 %	\input{07_26.tex}
