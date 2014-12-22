@@ -28,6 +28,17 @@
 \usepackage[usenames,dvipsnames,svgnames,table]{xcolor}
 \usepackage[framemethod=default]{mdframed}
 
+\usepackage{epigraph}
+
+\setlength\epigraphwidth{10cm}
+\setlength\epigraphrule{0pt}
+
+\usepackage{etoolbox}
+
+\makeatletter
+\patchcmd{\epigraph}{\@epitext{#1}}{\itshape\@epitext{#1}}{}{}
+\makeatother
+
 \definecolor{LightGrey}{RGB}{225, 234, 235}
 \newmdenv[linecolor=white, backgroundcolor=LightGrey]{hintframe}
 
@@ -73,6 +84,8 @@
 % for file in *.tex; do sed -i "s/chapter{/chapter*{/g" $file; done
 % for file in *.tex; do sed -i "s/section{/section*{/g" $file; done
 % for file in *.tex; do sed -i "s/\.\.\./…/g" $file; done
+
+% TODO: zamiana “ na ,, oraz ” na ''
 
 \begin{document}
 
