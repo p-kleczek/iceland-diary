@@ -1,0 +1,5 @@
+for file in *.tex; do sed -i "s/chapter{/chapter*{/g" $file; done
+for file in *.tex; do sed -i "s/section{/section*{/g" $file; done
+for file in *.tex; do sed -i "s/\.\.\./…/g" $file; done
+
+\processifversion{PDF|HTML}{}
