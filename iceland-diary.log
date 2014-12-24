@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.11.2)  24 DEC 2014 11:30
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.11.2)  24 DEC 2014 13:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1118,69 +1118,116 @@ LaTeX Info: Redefining \nameref on input line 99.
 \@outlinefile=\write3
 \openout3 = `iceland-diary.out'.
 
- (./07_29.tex
-<./photos/x-s-2014-07-29_13-44-46__150.jpg, id=4, 650.43pt x 433.62pt>
-File: ./photos/x-s-2014-07-29_13-44-46__150.jpg Graphic file (type jpg)
+ (./07_30.tex
+LaTeX Font Info:    Try loading font information for OML+plm on input line 5.
 
-<use ./photos/x-s-2014-07-29_13-44-46__150.jpg>
-Package pdftex.def Info: ./photos/x-s-2014-07-29_13-44-46__150.jpg used on inpu
-t line 9.
-(pdftex.def)             Requested size: 350.99762pt x 234.00575pt.
+(/usr/share/texlive/texmf-dist/tex/latex/polski/omlplm.fd
+File: omlplm.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
+)
+LaTeX Font Info:    Try loading font information for OMS+plsy on input line 5.
+
+(/usr/share/texlive/texmf-dist/tex/latex/polski/omsplsy.fd
+File: omsplsy.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
+)
+LaTeX Font Info:    Try loading font information for OMX+plex on input line 5.
+
+(/usr/share/texlive/texmf-dist/tex/latex/polski/omxplex.fd
+File: omxplex.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
+)
+LaTeX Font Info:    External font `plex10' loaded for size
+(Font)              <10.95> on input line 5.
+LaTeX Font Info:    External font `plex10' loaded for size
+(Font)              <8> on input line 5.
+LaTeX Font Info:    External font `plex10' loaded for size
+(Font)              <6> on input line 5.
+LaTeX Font Info:    Try loading font information for U+msa on input line 5.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 5.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<./photos/x-s-2014-07-30_08-48-02__59.jpg, id=4, 650.43pt x 365.365pt>
+File: ./photos/x-s-2014-07-30_08-48-02__59.jpg Graphic file (type jpg)
+
+<use ./photos/x-s-2014-07-30_08-48-02__59.jpg>
+Package pdftex.def Info: ./photos/x-s-2014-07-30_08-48-02__59.jpg used on input
+ line 9.
+(pdftex.def)             Requested size: 350.99762pt x 197.17151pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./photos/x-s-2014-07-29_20-02-07__176.jpg, id=5, 650.43pt x 433.62pt>
-File: ./photos/x-s-2014-07-29_20-02-07__176.jpg Graphic file (type jpg)
+Package mdframed Info: mdframed works in twoside mode on input line 11.
+LaTeX Font Info:    External font `plex10' loaded for size
+(Font)              <12> on input line 11.
+<./icons/bulb.png, id=5, 256.96pt x 256.96pt>
+File: ./icons/bulb.png Graphic file (type png)
+ <use ./icons/bulb.png>
+Package pdftex.def Info: ./icons/bulb.png used on input line 11.
+(pdftex.def)             Requested size: 56.9055pt x 56.90385pt.
+ [1
 
-<use ./photos/x-s-2014-07-29_20-02-07__176.jpg>
-Package pdftex.def Info: ./photos/x-s-2014-07-29_20-02-07__176.jpg used on inpu
-t line 13.
-(pdftex.def)             Requested size: 350.99762pt x 234.00575pt.
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./icons/bulb.png>]
+<./photos/x-s-2014-07-30_16-10-44__60.jpg, id=17, 650.43pt x 365.365pt>
+File: ./photos/x-s-2014-07-30_16-10-44__60.jpg Graphic file (type jpg)
+
+<use ./photos/x-s-2014-07-30_16-10-44__60.jpg>
+Package pdftex.def Info: ./photos/x-s-2014-07-30_16-10-44__60.jpg used on input
+ line 15.
+(pdftex.def)             Requested size: 350.99762pt x 197.17151pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./photos/x-s-2014-07-29_21-09-00__114.jpg, id=6, 650.43pt x 174.6525pt>
-File: ./photos/x-s-2014-07-29_21-09-00__114.jpg Graphic file (type jpg)
+[2 <./photos/x-s-2014-07-30_08-48-02__59.jpg>]
+<./photos/x-s-2014-07-30_23-04-25__117.jpg, id=23, 260.172pt x 195.129pt>
+File: ./photos/x-s-2014-07-30_23-04-25__117.jpg Graphic file (type jpg)
 
-<use ./photos/x-s-2014-07-29_21-09-00__114.jpg>
-Package pdftex.def Info: ./photos/x-s-2014-07-29_21-09-00__114.jpg used on inpu
-t line 14.
-(pdftex.def)             Requested size: 350.99762pt x 94.2523pt.
+<use ./photos/x-s-2014-07-30_23-04-25__117.jpg>
+Package pdftex.def Info: ./photos/x-s-2014-07-30_23-04-25__117.jpg used on inpu
+t line 27.
+(pdftex.def)             Requested size: 350.99762pt x 263.26091pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[1
-
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}])
+)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 134.
- [2 <./photos/x-s-2014-07-29_13-44-46__150.jpg>] [3 <./photos/x-s-2014-07-29_20
--02-07__176.jpg> <./photos/x-s-2014-07-29_21-09-00__114.jpg>]
+ [3 <./photos/x-s-2014-07-30_16-10-44__60.jpg>] [4 <./photos/x-s-2014-07-30_23-
+04-25__117.jpg>]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 134.
  (./iceland-diary.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 134.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 134.
 Package rerunfilecheck Info: File `iceland-diary.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 134.
  ) 
 Here is how much of TeX's memory you used:
- 15690 strings out of 494993
- 268227 string characters out of 6180621
- 359591 words of memory out of 5000000
- 18651 multiletter control sequences out of 15000+600000
- 7564 words of font info for 20 fonts, out of 8000000 for 9000
+ 15775 strings out of 494993
+ 269779 string characters out of 6180621
+ 358603 words of memory out of 5000000
+ 18700 multiletter control sequences out of 15000+600000
+ 15017 words of font info for 42 fonts, out of 8000000 for 9000
  34 hyphenation exceptions out of 8191
- 45i,6n,78p,10427b,379s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/pawel/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk> </home/p
-awel/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx2488.600pk>
-Output written on iceland-diary.pdf (3 pages, 461354 bytes).
+ 45i,13n,78p,10427b,454s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/pawel/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1095.600pk> </home/p
+awel/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecti1095.600pk> </home/pawel/.texmf
+-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk> </home/pawel/.texmf-var/fonts/
+pk/ljfour/jknappen/ec/ecbx2488.600pk>
+Output written on iceland-diary.pdf (4 pages, 392802 bytes).
 PDF statistics:
- 114 PDF objects out of 1000 (max. 8388607)
- 29 compressed objects within 1 object stream
- 8 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 163 PDF objects out of 1000 (max. 8388607)
+ 40 compressed objects within 1 object stream
+ 9 named destinations out of 1000 (max. 500000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
