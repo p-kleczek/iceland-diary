@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.11.2)  24 DEC 2014 13:13
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.11.2)  24 DEC 2014 13:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1045,28 +1045,29 @@ Package: epigraph 2009/09/02 v1.5c typesetting epigraphs
 (./iceland-diary.aux)
 \openout1 = `iceland-diary.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 99.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 99.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 100.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 100.
+
  (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    ... okay on input line 100.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -1100,7 +1101,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \AtBeginShipoutBox=\box49
-Package hyperref Info: Link coloring OFF on input line 99.
+Package hyperref Info: Link coloring OFF on input line 100.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1110,124 +1111,560 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count151
 )
-LaTeX Info: Redefining \ref on input line 99.
-LaTeX Info: Redefining \pageref on input line 99.
-LaTeX Info: Redefining \nameref on input line 99.
+LaTeX Info: Redefining \ref on input line 100.
+LaTeX Info: Redefining \pageref on input line 100.
+LaTeX Info: Redefining \nameref on input line 100.
 
 (./iceland-diary.out) (./iceland-diary.out)
 \@outlinefile=\write3
 \openout3 = `iceland-diary.out'.
 
- (./07_30.tex
-LaTeX Font Info:    Try loading font information for OML+plm on input line 5.
+ (./07_31.tex [1
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+<./photos/x-s-2014-07-31_10-44-48__131.jpg, id=15, 260.172pt x 195.129pt>
+File: ./photos/x-s-2014-07-31_10-44-48__131.jpg Graphic file (type jpg)
+
+<use ./photos/x-s-2014-07-31_10-44-48__131.jpg>
+Package pdftex.def Info: ./photos/x-s-2014-07-31_10-44-48__131.jpg used on inpu
+t line 11.
+(pdftex.def)             Requested size: 350.99762pt x 263.26091pt.
+Package mdframed Info: mdframed works in twoside mode on input line 18.
+LaTeX Font Info:    Try loading font information for OML+plm on input line 18.
 
 (/usr/share/texlive/texmf-dist/tex/latex/polski/omlplm.fd
 File: omlplm.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
-LaTeX Font Info:    Try loading font information for OMS+plsy on input line 5.
+LaTeX Font Info:    Try loading font information for OMS+plsy on input line 18.
+
 
 (/usr/share/texlive/texmf-dist/tex/latex/polski/omsplsy.fd
 File: omsplsy.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
-LaTeX Font Info:    Try loading font information for OMX+plex on input line 5.
+LaTeX Font Info:    Try loading font information for OMX+plex on input line 18.
+
 
 (/usr/share/texlive/texmf-dist/tex/latex/polski/omxplex.fd
 File: omxplex.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <10.95> on input line 5.
+(Font)              <12> on input line 18.
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <8> on input line 5.
+(Font)              <8> on input line 18.
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <6> on input line 5.
-LaTeX Font Info:    Try loading font information for U+msa on input line 5.
+(Font)              <6> on input line 18.
+LaTeX Font Info:    Try loading font information for U+msa on input line 18.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 5.
+LaTeX Font Info:    Try loading font information for U+msb on input line 18.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<./photos/x-s-2014-07-30_08-48-02__59.jpg, id=4, 650.43pt x 365.365pt>
-File: ./photos/x-s-2014-07-30_08-48-02__59.jpg Graphic file (type jpg)
-
-<use ./photos/x-s-2014-07-30_08-48-02__59.jpg>
-Package pdftex.def Info: ./photos/x-s-2014-07-30_08-48-02__59.jpg used on input
- line 9.
-(pdftex.def)             Requested size: 350.99762pt x 197.17151pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-Package mdframed Info: mdframed works in twoside mode on input line 11.
-LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <12> on input line 11.
-<./icons/bulb.png, id=5, 256.96pt x 256.96pt>
+<./icons/bulb.png, id=17, 256.96pt x 256.96pt>
 File: ./icons/bulb.png Graphic file (type png)
  <use ./icons/bulb.png>
-Package pdftex.def Info: ./icons/bulb.png used on input line 11.
+Package pdftex.def Info: ./icons/bulb.png used on input line 18.
 (pdftex.def)             Requested size: 56.9055pt x 56.90385pt.
- [1
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 18.
 
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./icons/bulb.png>]
-<./photos/x-s-2014-07-30_16-10-44__60.jpg, id=17, 650.43pt x 365.365pt>
-File: ./photos/x-s-2014-07-30_16-10-44__60.jpg Graphic file (type jpg)
-
-<use ./photos/x-s-2014-07-30_16-10-44__60.jpg>
-Package pdftex.def Info: ./photos/x-s-2014-07-30_16-10-44__60.jpg used on input
- line 15.
-(pdftex.def)             Requested size: 350.99762pt x 197.17151pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[2 <./photos/x-s-2014-07-30_08-48-02__59.jpg>]
-<./photos/x-s-2014-07-30_23-04-25__117.jpg, id=23, 260.172pt x 195.129pt>
-File: ./photos/x-s-2014-07-30_23-04-25__117.jpg Graphic file (type jpg)
-
-<use ./photos/x-s-2014-07-30_23-04-25__117.jpg>
-Package pdftex.def Info: ./photos/x-s-2014-07-30_23-04-25__117.jpg used on inpu
-t line 27.
-(pdftex.def)             Requested size: 350.99762pt x 263.26091pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 134.
- [3 <./photos/x-s-2014-07-30_16-10-44__60.jpg>] [4 <./photos/x-s-2014-07-30_23-
-04-25__117.jpg>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 134.
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+\T1/cmr/m/n/12 Map¦ oko-lic Sta-fa-fell znaj-dziesz na stro-nie
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+[]$\T1/cmtt/m/n/12 http : / / www . stafafell . is / uploads / 8 / 3 / 3 / 1 /
+ []
+
+
+Overfull \vbox (53.9914pt too high) detected at line 18
+ []
+
+Package mdframed Info: Box was splittet wrong
+ starting loop to iterate the splitting point
+(mdframed)              on input line 18.
+
+Overfull \vbox (54.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (55.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (56.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (57.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (58.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (59.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (60.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (61.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (62.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (63.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (64.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (65.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (66.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (67.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (68.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (69.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (70.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (71.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (72.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (73.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (74.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (75.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (76.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (77.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (78.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (79.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (80.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (81.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (82.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (83.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (84.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (85.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (86.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (87.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (88.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (89.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (90.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (91.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (92.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (93.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (94.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (95.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (96.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (97.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (98.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (99.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (100.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (101.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (102.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (103.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (104.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (105.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (106.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (107.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (108.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (109.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (110.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (111.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (112.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (113.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (114.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (115.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (116.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (117.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (118.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (119.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (120.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (121.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (122.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (123.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (124.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (125.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (126.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (127.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (128.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (129.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (130.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (131.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (132.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (133.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (134.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (135.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (136.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (137.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (138.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (139.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (140.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (141.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (142.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (143.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (144.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (145.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (146.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (147.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (148.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (149.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (150.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (151.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (152.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (153.9914pt too high) detected at line 18
+ []
+
+
+Overfull \vbox (154.9914pt too high) detected at line 18
+ []
+
+
+Package mdframed Warning: correct box splittet fails
+ It seems you are using a non splittable contents
+(mdframed)                 on input line 18.
+
+Package mdframed Info: You first box width is to small
+ mdframed fixed it
+(mdframed)              on input line 18.
+[2 <./photos/x-s-2014-07-31_10-44-48__131.jpg>]
+<./photos/x-s-2014-07-31_19-57-52__224.jpg, id=24, 650.43pt x 433.62pt>
+File: ./photos/x-s-2014-07-31_19-57-52__224.jpg Graphic file (type jpg)
+
+<use ./photos/x-s-2014-07-31_19-57-52__224.jpg>
+Package pdftex.def Info: ./photos/x-s-2014-07-31_19-57-52__224.jpg used on inpu
+t line 27.
+(pdftex.def)             Requested size: 350.99762pt x 234.00575pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<./photos/x-s-2014-07-31_21-33-03__148.jpg, id=25, 650.43pt x 163.61125pt>
+File: ./photos/x-s-2014-07-31_21-33-03__148.jpg Graphic file (type jpg)
+
+<use ./photos/x-s-2014-07-31_21-33-03__148.jpg>
+Package pdftex.def Info: ./photos/x-s-2014-07-31_21-33-03__148.jpg used on inpu
+t line 29.
+(pdftex.def)             Requested size: 350.99762pt x 88.29382pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<./photos/x-s-2014-07-31_22-48-21__226.jpg, id=26, 650.43pt x 433.62pt>
+File: ./photos/x-s-2014-07-31_22-48-21__226.jpg Graphic file (type jpg)
+
+<use ./photos/x-s-2014-07-31_22-48-21__226.jpg>
+Package pdftex.def Info: ./photos/x-s-2014-07-31_22-48-21__226.jpg used on inpu
+t line 35.
+(pdftex.def)             Requested size: 350.99762pt x 234.00575pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) [3 <./icons/bulb.png>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 135.
+ [4 <./photos/x-s-2014-07-31_19-57-52__224.jpg> <./photos/x-s-2014-07-31_21-33-
+03__148.jpg>] [5 <./photos/x-s-2014-07-31_22-48-21__226.jpg>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 135.
  (./iceland-diary.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 134.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 134.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 135.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 135.
 Package rerunfilecheck Info: File `iceland-diary.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 134.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 135.
  ) 
 Here is how much of TeX's memory you used:
- 15775 strings out of 494993
- 269779 string characters out of 6180621
- 358603 words of memory out of 5000000
- 18700 multiletter control sequences out of 15000+600000
- 15017 words of font info for 42 fonts, out of 8000000 for 9000
+ 15805 strings out of 494993
+ 270660 string characters out of 6180621
+ 360668 words of memory out of 5000000
+ 18722 multiletter control sequences out of 15000+600000
+ 14535 words of font info for 39 fonts, out of 8000000 for 9000
  34 hyphenation exceptions out of 8191
- 45i,13n,78p,10427b,454s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/pawel/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1095.600pk> </home/p
-awel/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecti1095.600pk> </home/pawel/.texmf
+ 45i,13n,78p,10427b,493s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/pawel/.texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1200.600pk> </home/p
+awel/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecti1200.600pk> </home/pawel/.texmf
 -var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk> </home/pawel/.texmf-var/fonts/
-pk/ljfour/jknappen/ec/ecbx2488.600pk>
-Output written on iceland-diary.pdf (4 pages, 392802 bytes).
+pk/ljfour/jknappen/ec/ecbx1728.600pk> </home/pawel/.texmf-var/fonts/pk/ljfour/j
+knappen/ec/ecbx2488.600pk>
+Output written on iceland-diary.pdf (5 pages, 558572 bytes).
 PDF statistics:
- 163 PDF objects out of 1000 (max. 8388607)
- 40 compressed objects within 1 object stream
- 9 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 217 PDF objects out of 1000 (max. 8388607)
+ 54 compressed objects within 1 object stream
+ 13 named destinations out of 1000 (max. 500000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
