@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.11.2)  25 DEC 2014 07:45
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.11.2)  25 DEC 2014 08:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1119,96 +1119,70 @@ LaTeX Info: Redefining \nameref on input line 100.
 \@outlinefile=\write3
 \openout3 = `iceland-diary.out'.
 
- (./08_05.tex
-Package mdframed Info: mdframed works in twoside mode on input line 13.
-LaTeX Font Info:    Try loading font information for OML+plm on input line 13.
+ (./08_06.tex [1
 
-(/usr/share/texlive/texmf-dist/tex/latex/polski/omlplm.fd
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+<./photos/x-s-2014-08-06_21-22-05__198.jpg, id=12, 260.172pt x 195.129pt>
+File: ./photos/x-s-2014-08-06_21-22-05__198.jpg Graphic file (type jpg)
+
+<use ./photos/x-s-2014-08-06_21-22-05__198.jpg>
+Package pdftex.def Info: ./photos/x-s-2014-08-06_21-22-05__198.jpg used on inpu
+t line 15.
+(pdftex.def)             Requested size: 350.99762pt x 263.26091pt.
+
+Underfull \vbox (badness 1527) has occurred while \output is active []
+
+ [2 <./photos/x-s-2014-08-06_21-22-05__198.jpg>]
+<./photos/x-s-2014-08-06_23-46-58__308.jpg, id=18, 650.43pt x 433.62pt>
+File: ./photos/x-s-2014-08-06_23-46-58__308.jpg Graphic file (type jpg)
+
+<use ./photos/x-s-2014-08-06_23-46-58__308.jpg>
+Package pdftex.def Info: ./photos/x-s-2014-08-06_23-46-58__308.jpg used on inpu
+t line 23.
+(pdftex.def)             Requested size: 350.99762pt x 234.00575pt.
+ [3 <./photos/x-s-2014-08-06_23-46-58__308.jpg>]
+Package mdframed Info: mdframed works in twoside mode on input line 29.
+LaTeX Font Info:    Try loading font information for OML+plm on input line 29.
+ (/usr/share/texlive/texmf-dist/tex/latex/polski/omlplm.fd
 File: omlplm.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
-LaTeX Font Info:    Try loading font information for OMS+plsy on input line 13.
+LaTeX Font Info:    Try loading font information for OMS+plsy on input line 29.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/polski/omsplsy.fd
 File: omsplsy.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
-LaTeX Font Info:    Try loading font information for OMX+plex on input line 13.
+LaTeX Font Info:    Try loading font information for OMX+plex on input line 29.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/polski/omxplex.fd
 File: omxplex.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <12> on input line 13.
+(Font)              <12> on input line 29.
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <8> on input line 13.
+(Font)              <8> on input line 29.
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <6> on input line 13.
-LaTeX Font Info:    Try loading font information for U+msa on input line 13.
+(Font)              <6> on input line 29.
+LaTeX Font Info:    Try loading font information for U+msa on input line 29.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 13.
+LaTeX Font Info:    Try loading font information for U+msb on input line 29.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<./icons/bulb.png, id=4, 256.96pt x 256.96pt>
+<./icons/bulb.png, id=26, 256.96pt x 256.96pt>
 File: ./icons/bulb.png Graphic file (type png)
  <use ./icons/bulb.png>
-Package pdftex.def Info: ./icons/bulb.png used on input line 13.
+Package pdftex.def Info: ./icons/bulb.png used on input line 29.
 (pdftex.def)             Requested size: 56.9055pt x 56.90385pt.
- [1
-
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-<./photos/x-s-2014-08-05_20-57-16__190.jpg, id=14, 260.172pt x 195.129pt>
-File: ./photos/x-s-2014-08-05_20-57-16__190.jpg Graphic file (type jpg)
-
-<use ./photos/x-s-2014-08-05_20-57-16__190.jpg>
-Package pdftex.def Info: ./photos/x-s-2014-08-05_20-57-16__190.jpg used on inpu
-t line 15.
-(pdftex.def)             Requested size: 350.99762pt x 263.26091pt.
-
-<./photos/x-s-2014-08-05_20-57-32__192.jpg, id=15, 260.172pt x 195.129pt>
-File: ./photos/x-s-2014-08-05_20-57-32__192.jpg Graphic file (type jpg)
-
-<use ./photos/x-s-2014-08-05_20-57-32__192.jpg>
-Package pdftex.def Info: ./photos/x-s-2014-08-05_20-57-32__192.jpg used on inpu
-t line 16.
-(pdftex.def)             Requested size: 350.99762pt x 263.26091pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[2 <./icons/bulb.png> <./photos/x-s-2014-08-05_20-57-16__190.jpg>]
-Underfull \vbox (badness 2213) has occurred while \output is active []
-
- [3 <./photos/x-s-2014-08-05_20-57-32__192.jpg>]
-<./photos/x-s-2014-08-05_20-01-34__79.jpg, id=27, 650.43pt x 365.365pt>
-File: ./photos/x-s-2014-08-05_20-01-34__79.jpg Graphic file (type jpg)
-
-<use ./photos/x-s-2014-08-05_20-01-34__79.jpg>
-Package pdftex.def Info: ./photos/x-s-2014-08-05_20-01-34__79.jpg used on input
- line 26.
-(pdftex.def)             Requested size: 350.99762pt x 197.17151pt.
-
-<./photos/x-s-2014-08-06_10-44-32__81.jpg, id=28, 650.43pt x 365.365pt>
-File: ./photos/x-s-2014-08-06_10-44-32__81.jpg Graphic file (type jpg)
-
-<use ./photos/x-s-2014-08-06_10-44-32__81.jpg>
-Package pdftex.def Info: ./photos/x-s-2014-08-06_10-44-32__81.jpg used on input
- line 27.
-(pdftex.def)             Requested size: 350.99762pt x 197.17151pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 )
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 135.
- [4 <./photos/x-s-2014-08-05_20-01-34__79.jpg>] [5 <./photos/x-s-2014-08-06_10-
-44-32__81.jpg>]
+ [4 <./icons/bulb.png>]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 135.
  (./iceland-diary.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 135.
@@ -1218,20 +1192,20 @@ Package rerunfilecheck Info: File `iceland-diary.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 135.
  ) 
 Here is how much of TeX's memory you used:
- 15773 strings out of 494993
- 269868 string characters out of 6180621
- 358650 words of memory out of 5000000
- 18698 multiletter control sequences out of 15000+600000
+ 15758 strings out of 494993
+ 269400 string characters out of 6180621
+ 358532 words of memory out of 5000000
+ 18688 multiletter control sequences out of 15000+600000
  12677 words of font info for 36 fonts, out of 8000000 for 9000
  34 hyphenation exceptions out of 8191
- 45i,13n,78p,10427b,478s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 45i,13n,78p,10427b,452s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/pawel/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecti1200.600pk> </home/p
 awel/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk> </home/pawel/.texmf
 -var/fonts/pk/ljfour/jknappen/ec/ecbx2488.600pk>
-Output written on iceland-diary.pdf (5 pages, 504951 bytes).
+Output written on iceland-diary.pdf (4 pages, 393937 bytes).
 PDF statistics:
- 178 PDF objects out of 1000 (max. 8388607)
- 40 compressed objects within 1 object stream
- 11 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 164 PDF objects out of 1000 (max. 8388607)
+ 37 compressed objects within 1 object stream
+ 8 named destinations out of 1000 (max. 500000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
