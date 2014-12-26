@@ -68,12 +68,22 @@
 %	\vspace{12pt}
 }
 
-
-%% TODO: symbol znaku zapytania
 \newcommand{\curiosity}[1] {
-	\vspace{6pt}
-	[CIEKAWOSTKA] #1
-	\vspace{6pt}
+%	\vspace{12pt}
+	\noindent
+	\begingroup
+ \begin{hintframe}		
+		\setlength{\tabcolsep}{0.3cm}
+		\centering
+		\begin{tabular}{ c p{.75\linewidth} }
+	%		\adjustbox{valign=c}{
+%	    \includegraphics[valign=m, width=2cm, margin=0 5cm 0cm 0cm]{./icons/bulb.png}
+	%    }
+			\raisebox{-0.8\height}{\includegraphics[width=2cm]{./icons/question.png}} & \begingroup #1 \endgroup \\
+		\end{tabular}
+	\end{hintframe}
+	\endgroup
+%	\vspace{12pt}
 }
 
 \newcommand{\img}[3] {
@@ -106,7 +116,7 @@
 %	\input{07_23.tex}
 %	\input{07_24.tex}
 %	\input{07_25.tex}
-%	\input{07_26.tex}
+	\input{07_26.tex}
 %	\input{07_27.tex}
 %	\input{07_28.tex}
 %	\input{07_29.tex}
@@ -130,6 +140,6 @@
 %	\input{08_15.tex}
 %	\input{08_16.tex}
 %	\input{08_17.tex}
-	\input{08_18.tex}
+%	\input{08_18.tex}
 
 \end{document}
