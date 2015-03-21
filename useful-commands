@@ -5,3 +5,5 @@ for file in *.tex; do sed -i "s/\.\.\./…/g" $file; done
 \processifversion{PDF|HTML}{}
 
 \epigraph{,,''}{--- \textup{}}
+
+for file in *.tex; do sed -i "s/”/''/g" $file; done

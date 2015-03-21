@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.11.2)  26 DEC 2014 18:26
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.11.2)  5 MAR 2015 18:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1119,38 +1119,52 @@ LaTeX Info: Redefining \nameref on input line 109.
 \@outlinefile=\write3
 \openout3 = `iceland-diary.out'.
 
- (./07_22.tex
-LaTeX Font Info:    Try loading font information for OML+plm on input line 6.
+ (./intro.tex) (./07_21.tex [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.ma
+p}
+
+] [2
+
+] [3]
+Package mdframed Info: mdframed works in twoside mode on input line 17.
+LaTeX Font Info:    Try loading font information for OML+plm on input line 17.
 
 (/usr/share/texlive/texmf-dist/tex/latex/polski/omlplm.fd
 File: omlplm.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
-LaTeX Font Info:    Try loading font information for OMS+plsy on input line 6.
+LaTeX Font Info:    Try loading font information for OMS+plsy on input line 17.
+
 
 (/usr/share/texlive/texmf-dist/tex/latex/polski/omsplsy.fd
 File: omsplsy.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
-LaTeX Font Info:    Try loading font information for OMX+plex on input line 6.
+LaTeX Font Info:    Try loading font information for OMX+plex on input line 17.
+
 
 (/usr/share/texlive/texmf-dist/tex/latex/polski/omxplex.fd
 File: omxplex.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <12> on input line 6.
+(Font)              <12> on input line 17.
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <8> on input line 6.
+(Font)              <8> on input line 17.
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <6> on input line 6.
-LaTeX Font Info:    Try loading font information for U+msa on input line 6.
+(Font)              <6> on input line 17.
+LaTeX Font Info:    Try loading font information for U+msa on input line 17.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 6.
+LaTeX Font Info:    Try loading font information for U+msb on input line 17.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
+<./icons/bulb.png, id=23, 256.96pt x 256.96pt>
+File: ./icons/bulb.png Graphic file (type png)
+ <use ./icons/bulb.png>
+Package pdftex.def Info: ./icons/bulb.png used on input line 17.
+(pdftex.def)             Requested size: 56.9055pt x 56.90385pt.
+ [4 <./icons/bulb.png>] [5]) (./07_22.tex [6]
 LaTeX Font Info:    External font `plex10' loaded for size
 (Font)              <10> on input line 6.
 LaTeX Font Info:    External font `plex10' loaded for size
@@ -1158,23 +1172,28 @@ LaTeX Font Info:    External font `plex10' loaded for size
 LaTeX Font Info:    External font `plex10' loaded for size
 (Font)              <5> on input line 6.
 Package mdframed Info: mdframed works in twoside mode on input line 11.
-
-<./icons/bulb.png, id=12, 256.96pt x 256.96pt>
 File: ./icons/bulb.png Graphic file (type png)
  <use ./icons/bulb.png>
 Package pdftex.def Info: ./icons/bulb.png used on input line 11.
 (pdftex.def)             Requested size: 56.9055pt x 56.90385pt.
+
+
+LaTeX Warning: Reference `mdf@pagelabel-2' on page 7 undefined on input line 11
+.
+
 Package mdframed Info: mdframed works in twoside mode on input line 13.
 File: ./icons/bulb.png Graphic file (type png)
-
 <use ./icons/bulb.png>
 Package pdftex.def Info: ./icons/bulb.png used on input line 13.
 (pdftex.def)             Requested size: 56.9055pt x 56.90385pt.
- [1
 
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./icons/bulb.png>]
-<./photos/x-s-2014-07-22_14-53-31__2.jpg, id=30, 650.43pt x 433.62pt>
+LaTeX Warning: Reference `mdf@pagelabel-3' on page 7 undefined on input line 13
+.
+
+[7
+
+] <./photos/x-s-2014-07-22_14-53-31__2.jpg, id=56, 650.43pt x 433.62pt>
 File: ./photos/x-s-2014-07-22_14-53-31__2.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-07-22_14-53-31__2.jpg>
@@ -1605,15 +1624,23 @@ Package mdframed Warning: correct box splittet fails
 Package mdframed Info: You first box width is to small
  mdframed fixed it
 (mdframed)              on input line 37.
-[2 <./photos/x-s-2014-07-22_14-53-31__2.jpg>]
+[8 <./photos/x-s-2014-07-22_14-53-31__2.jpg>]
+
+LaTeX Warning: Reference `mdf@pagelabel-4' on page 9 undefined on input line 37
+.
+
 Package mdframed Info: mdframed works in twoside mode on input line 41.
 File: ./icons/bulb.png Graphic file (type png)
- <use ./icons/bulb.png>
+<use ./icons/bulb.png>
 Package pdftex.def Info: ./icons/bulb.png used on input line 41.
 (pdftex.def)             Requested size: 56.9055pt x 56.90385pt.
+
+
+LaTeX Warning: Reference `mdf@pagelabel-5' on page 9 undefined on input line 41
+.
+
 Package mdframed Info: mdframed works in twoside mode on input line 45.
 File: ./icons/bulb.png Graphic file (type png)
-
 <use ./icons/bulb.png>
 Package pdftex.def Info: ./icons/bulb.png used on input line 45.
 (pdftex.def)             Requested size: 56.9055pt x 56.90385pt.
@@ -2039,7 +2066,12 @@ Package mdframed Warning: correct box splittet fails
 Package mdframed Info: You first box width is to small
  mdframed fixed it
 (mdframed)              on input line 45.
-[3] <./photos/x-s-2014-07-22_18-05-39__5.jpg, id=44, 260.172pt x 195.129pt>
+[9]
+
+LaTeX Warning: Reference `mdf@pagelabel-6' on page 10 undefined on input line 4
+5.
+
+<./photos/x-s-2014-07-22_18-05-39__5.jpg, id=70, 260.172pt x 195.129pt>
 File: ./photos/x-s-2014-07-22_18-05-39__5.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-07-22_18-05-39__5.jpg>
@@ -2047,7 +2079,7 @@ Package pdftex.def Info: ./photos/x-s-2014-07-22_18-05-39__5.jpg used on input
 line 51.
 (pdftex.def)             Requested size: 350.99762pt x 263.26091pt.
 
-<./photos/x-s-2014-07-22_18-25-14__8.jpg, id=45, 650.43pt x 433.62pt>
+<./photos/x-s-2014-07-22_18-25-14__8.jpg, id=71, 650.43pt x 433.62pt>
 File: ./photos/x-s-2014-07-22_18-25-14__8.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-07-22_18-25-14__8.jpg>
@@ -2058,14 +2090,19 @@ line 53.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[4 <./photos/x-s-2014-07-22_18-05-39__5.jpg>]
+[10 <./photos/x-s-2014-07-22_18-05-39__5.jpg>]
 Package mdframed Info: mdframed works in twoside mode on input line 59.
 File: ./icons/bulb.png Graphic file (type png)
  <use ./icons/bulb.png>
 Package pdftex.def Info: ./icons/bulb.png used on input line 59.
 (pdftex.def)             Requested size: 56.9055pt x 56.90385pt.
- [5 <./photos/x-s-2014-07-22_18-25-14__8.jpg>]
-<./photos/x-s-2014-07-23_11-11-19__6.jpg, id=61, 650.43pt x 365.365pt>
+
+
+LaTeX Warning: Reference `mdf@pagelabel-7' on page 11 undefined on input line 5
+9.
+
+[11 <./photos/x-s-2014-07-22_18-25-14__8.jpg>]
+<./photos/x-s-2014-07-23_11-11-19__6.jpg, id=87, 650.43pt x 365.365pt>
 File: ./photos/x-s-2014-07-23_11-11-19__6.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-07-23_11-11-19__6.jpg>
@@ -2077,17 +2114,26 @@ File: ./icons/bulb.png Graphic file (type png)
  <use ./icons/bulb.png>
 Package pdftex.def Info: ./icons/bulb.png used on input line 71.
 (pdftex.def)             Requested size: 56.9055pt x 56.90385pt.
- [6 <./photos/x-s-2014-07-23_11-11-19__6.jpg>]
+ [12 <./photos/x-s-2014-07-23_11-11-19__6.jpg>]
 Package mdframed Info: Not enough space on this page on input line 71.
+
+
+LaTeX Warning: Reference `mdf@pagelabel-8' on page 13 undefined on input line 7
+1.
+
 Package mdframed Info: mdframed works in twoside mode on input line 75.
 File: ./icons/bulb.png Graphic file (type png)
- <use ./icons/bulb.png>
+<use ./icons/bulb.png>
 Package pdftex.def Info: ./icons/bulb.png used on input line 75.
 (pdftex.def)             Requested size: 56.9055pt x 56.90385pt.
+
+
+LaTeX Warning: Reference `mdf@pagelabel-9' on page 13 undefined on input line 7
+5.
+
 LaTeX Font Info:    External font `plex10' loaded for size
 (Font)              <10.95> on input line 84.
-) (./07_23.tex
-[7] [8
+) (./07_23.tex [13] [14
 
 ]
 Package mdframed Info: mdframed works in twoside mode on input line 5.
@@ -2096,7 +2142,11 @@ File: ./icons/bulb.png Graphic file (type png)
 Package pdftex.def Info: ./icons/bulb.png used on input line 5.
 (pdftex.def)             Requested size: 56.9055pt x 56.90385pt.
 
-<./photos/x-s-2014-07-23_15-03-31__12.jpg, id=82, 650.43pt x 433.62pt>
+
+LaTeX Warning: Reference `mdf@pagelabel-10' on page 15 undefined on input line 
+5.
+
+<./photos/x-s-2014-07-23_15-03-31__12.jpg, id=107, 650.43pt x 433.62pt>
 File: ./photos/x-s-2014-07-23_15-03-31__12.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-07-23_15-03-31__12.jpg>
@@ -2107,7 +2157,7 @@ Package pdftex.def Info: ./photos/x-s-2014-07-23_15-03-31__12.jpg used on input
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./photos/x-s-2014-07-23_15-44-30__18.jpg, id=83, 650.43pt x 433.62pt>
+<./photos/x-s-2014-07-23_15-44-30__18.jpg, id=108, 650.43pt x 433.62pt>
 File: ./photos/x-s-2014-07-23_15-44-30__18.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-07-23_15-44-30__18.jpg>
@@ -2118,7 +2168,7 @@ Package pdftex.def Info: ./photos/x-s-2014-07-23_15-44-30__18.jpg used on input
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[9] <./photos/x-s-2014-07-23_18-26-49__25.jpg, id=92, 650.43pt x 433.62pt>
+[15] <./photos/x-s-2014-07-23_18-26-49__25.jpg, id=117, 650.43pt x 433.62pt>
 File: ./photos/x-s-2014-07-23_18-26-49__25.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-07-23_18-26-49__25.jpg>
@@ -2129,7 +2179,7 @@ Package pdftex.def Info: ./photos/x-s-2014-07-23_18-26-49__25.jpg used on input
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./photos/x-s-2014-07-23_18-29-35__27.jpg, id=93, 650.43pt x 433.62pt>
+<./photos/x-s-2014-07-23_18-29-35__27.jpg, id=118, 650.43pt x 433.62pt>
 File: ./photos/x-s-2014-07-23_18-29-35__27.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-07-23_18-29-35__27.jpg>
@@ -2140,7 +2190,7 @@ Package pdftex.def Info: ./photos/x-s-2014-07-23_18-29-35__27.jpg used on input
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./photos/x-s-2014-07-23_22-36-27__12.jpg, id=94, 650.43pt x 365.365pt>
+<./photos/x-s-2014-07-23_22-36-27__12.jpg, id=119, 650.43pt x 365.365pt>
 File: ./photos/x-s-2014-07-23_22-36-27__12.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-07-23_22-36-27__12.jpg>
@@ -2151,21 +2201,21 @@ Package pdftex.def Info: ./photos/x-s-2014-07-23_22-36-27__12.jpg used on input
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) (./07_24.tex [10 <./photos/x-s-2014-07-23_15-03-31__12.jpg>] [11 <./photos/x-
+) (./07_24.tex [16 <./photos/x-s-2014-07-23_15-03-31__12.jpg>] [17 <./photos/x-
 s-2014-07-23_15-44-30__18.jpg> <./photos/x-s-2014-07-23_18-26-49__25.jpg>]
-[12 <./photos/x-s-2014-07-23_18-29-35__27.jpg> <./photos/x-s-2014-07-23_22-36-2
+[18 <./photos/x-s-2014-07-23_18-29-35__27.jpg> <./photos/x-s-2014-07-23_22-36-2
 7__12.jpg>]
-<./photos/x-s-2014-07-24_14-38-32__16.jpg, id=112, 650.43pt x 365.365pt>
+<./photos/x-s-2014-07-24_14-38-32__16.jpg, id=137, 650.43pt x 365.365pt>
 File: ./photos/x-s-2014-07-24_14-38-32__16.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-07-24_14-38-32__16.jpg>
 Package pdftex.def Info: ./photos/x-s-2014-07-24_14-38-32__16.jpg used on input
  line 5.
 (pdftex.def)             Requested size: 350.99762pt x 197.17151pt.
- [13
+ [19
 
  <./photos/x-s-2014-07-24_14-38-32__16.jpg>]
-<./photos/x-s-2014-07-24_17-17-04__18.jpg, id=121, 650.43pt x 365.365pt>
+<./photos/x-s-2014-07-24_17-17-04__18.jpg, id=146, 650.43pt x 365.365pt>
 File: ./photos/x-s-2014-07-24_17-17-04__18.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-07-24_17-17-04__18.jpg>
@@ -2173,7 +2223,7 @@ Package pdftex.def Info: ./photos/x-s-2014-07-24_17-17-04__18.jpg used on input
  line 11.
 (pdftex.def)             Requested size: 350.99762pt x 197.17151pt.
 
-<./photos/x-s-2014-07-24_19-24-40__23.jpg, id=122, 650.43pt x 365.365pt>
+<./photos/x-s-2014-07-24_19-24-40__23.jpg, id=147, 650.43pt x 365.365pt>
 File: ./photos/x-s-2014-07-24_19-24-40__23.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-07-24_19-24-40__23.jpg>
@@ -2184,11 +2234,11 @@ Package pdftex.def Info: ./photos/x-s-2014-07-24_19-24-40__23.jpg used on input
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) (./07_25.tex [14 <./photos/x-s-2014-07-24_17-17-04__18.jpg>] [15 <./photos/x-
-s-2014-07-24_19-24-40__23.jpg>] [16
+) (./07_25.tex [20 <./photos/x-s-2014-07-24_17-17-04__18.jpg>] [21 <./photos/x-
+s-2014-07-24_19-24-40__23.jpg>] [22
 
 ]
-<./photos/x-s-2014-07-25_17-15-16__25.jpg, id=137, 650.43pt x 365.365pt>
+<./photos/x-s-2014-07-25_17-15-16__25.jpg, id=163, 650.43pt x 365.365pt>
 File: ./photos/x-s-2014-07-25_17-15-16__25.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-07-25_17-15-16__25.jpg>
@@ -2199,40 +2249,45 @@ Package pdftex.def Info: ./photos/x-s-2014-07-25_17-15-16__25.jpg used on input
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[17]
+[23]
 Package mdframed Info: mdframed works in twoside mode on input line 15.
 File: ./icons/bulb.png Graphic file (type png)
  <use ./icons/bulb.png>
 Package pdftex.def Info: ./icons/bulb.png used on input line 15.
 (pdftex.def)             Requested size: 56.9055pt x 56.90385pt.
- [18 <./photos/x-s-2014-07-25_17-15-16__25.jpg>]
-<./photos/x-s-2014-07-25_21-22-31__45.jpg, id=150, 260.172pt x 195.129pt>
+
+
+LaTeX Warning: Reference `mdf@pagelabel-11' on page 24 undefined on input line 
+15.
+
+[24 <./photos/x-s-2014-07-25_17-15-16__25.jpg>]
+<./photos/x-s-2014-07-25_21-22-31__45.jpg, id=176, 260.172pt x 195.129pt>
 File: ./photos/x-s-2014-07-25_21-22-31__45.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-07-25_21-22-31__45.jpg>
 Package pdftex.def Info: ./photos/x-s-2014-07-25_21-22-31__45.jpg used on input
  line 27.
 (pdftex.def)             Requested size: 350.99762pt x 263.26091pt.
- [19 <./photos/x-s-2014-07-25_21-22-31__45.jpg>]
-<./photos/x-s-2014-07-25_22-44-06__52.jpg, id=160, 260.172pt x 195.129pt>
+ [25 <./photos/x-s-2014-07-25_21-22-31__45.jpg>]
+<./photos/x-s-2014-07-25_22-44-06__52.jpg, id=185, 260.172pt x 195.129pt>
 File: ./photos/x-s-2014-07-25_22-44-06__52.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-07-25_22-44-06__52.jpg>
 Package pdftex.def Info: ./photos/x-s-2014-07-25_22-44-06__52.jpg used on input
  line 31.
 (pdftex.def)             Requested size: 350.99762pt x 263.26091pt.
-) (./07_26.tex [20 <./photos/x-s-2014-07-25_22-44-06__52.jpg>]
-<./photos/x-s-2014-07-26_14-00-40__54.jpg, id=166, 260.172pt x 195.129pt>
+) (./07_26.tex [26 <./photos/x-s-2014-07-25_22-44-06__52.jpg>]
+<./photos/x-s-2014-07-26_14-00-40__54.jpg, id=191, 260.172pt x 195.129pt>
 File: ./photos/x-s-2014-07-26_14-00-40__54.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-07-26_14-00-40__54.jpg>
 Package pdftex.def Info: ./photos/x-s-2014-07-26_14-00-40__54.jpg used on input
  line 5.
 (pdftex.def)             Requested size: 350.99762pt x 263.26091pt.
- [21
+ [27
 
  <./photos/x-s-2014-07-26_14-00-40__54.jpg>]
-<./photos/x-s-2014-07-26_17-50-56__60.jpg, id=173, 260.172pt x 195.129pt>
+<./photos/x-s-2014-07-26_17-50-56__60.jpg, id=198, 260.172pt x 195.129pt>
 File: ./photos/x-s-2014-07-26_17-50-56__60.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-07-26_17-50-56__60.jpg>
@@ -2248,11 +2303,15 @@ File: ./icons/bulb.png Graphic file (type png)
 <use ./icons/bulb.png>
 Package pdftex.def Info: ./icons/bulb.png used on input line 17.
 (pdftex.def)             Requested size: 56.9055pt x 56.90385pt.
-Package mdframed Info: mdframed works in twoside mode on input line 19.
- <./icons/question.png, id=174, 256.96pt x 256.96pt>
-File: ./icons/question.png Graphic file (type png)
 
-<use ./icons/question.png>
+
+LaTeX Warning: Reference `mdf@pagelabel-12' on page 28 undefined on input line 
+17.
+
+Package mdframed Info: mdframed works in twoside mode on input line 19.
+<./icons/question.png, id=199, 256.96pt x 256.96pt>
+File: ./icons/question.png Graphic file (type png)
+ <use ./icons/question.png>
 Package pdftex.def Info: ./icons/question.png used on input line 19.
 (pdftex.def)             Requested size: 56.9055pt x 56.90385pt.
 
@@ -2282,9 +2341,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 19--19
  images /
  []
 
-[22]
+[28]
 Package mdframed Info: Not enough space on this page on input line 19.
- <./photos/x-s-2014-07-26_23-05-25__115.jpg, id=181, 650.43pt x 433.62pt>
+
+
+LaTeX Warning: Reference `mdf@pagelabel-13' on page 29 undefined on input line 
+19.
+
+<./photos/x-s-2014-07-26_23-05-25__115.jpg, id=206, 650.43pt x 433.62pt>
 File: ./photos/x-s-2014-07-26_23-05-25__115.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-07-26_23-05-25__115.jpg>
@@ -2295,8 +2359,8 @@ t line 21.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) (./07_27.tex [23 <./photos/x-s-2014-07-26_17-50-56__60.jpg> <./icons/question
-.png>] [24 <./photos/x-s-2014-07-26_23-05-25__115.jpg>] [25
+) (./07_27.tex [29 <./photos/x-s-2014-07-26_17-50-56__60.jpg> <./icons/question
+.png>] [30 <./photos/x-s-2014-07-26_23-05-25__115.jpg>] [31
 
 ]
 Package mdframed Info: mdframed works in twoside mode on input line 47.
@@ -2724,33 +2788,38 @@ Package mdframed Warning: correct box splittet fails
 Package mdframed Info: You first box width is to small
  mdframed fixed it
 (mdframed)              on input line 47.
-[26] <./photos/x-s-2014-07-27_18-43-10__49.jpg, id=209, 650.43pt x 365.365pt>
+[32]
+
+LaTeX Warning: Reference `mdf@pagelabel-14' on page 33 undefined on input line 
+47.
+
+<./photos/x-s-2014-07-27_18-43-10__49.jpg, id=234, 650.43pt x 365.365pt>
 File: ./photos/x-s-2014-07-27_18-43-10__49.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-07-27_18-43-10__49.jpg>
 Package pdftex.def Info: ./photos/x-s-2014-07-27_18-43-10__49.jpg used on input
  line 47.
 (pdftex.def)             Requested size: 350.99762pt x 197.17151pt.
- [27 <./photos/x-s-2014-07-27_18-43-10__49.jpg>]) (./07_28.tex [28]
-<./photos/x-s-2014-07-28_15-03-53__50.jpg, id=222, 650.43pt x 365.365pt>
+ [33 <./photos/x-s-2014-07-27_18-43-10__49.jpg>]) (./07_28.tex [34]
+<./photos/x-s-2014-07-28_15-03-53__50.jpg, id=247, 650.43pt x 365.365pt>
 File: ./photos/x-s-2014-07-28_15-03-53__50.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-07-28_15-03-53__50.jpg>
 Package pdftex.def Info: ./photos/x-s-2014-07-28_15-03-53__50.jpg used on input
  line 7.
 (pdftex.def)             Requested size: 350.99762pt x 197.17151pt.
- [29
+ [35
 
  <./photos/x-s-2014-07-28_15-03-53__50.jpg>]
-<./photos/x-s-2014-07-28_22-06-42__95.jpg, id=230, 260.172pt x 195.129pt>
+<./photos/x-s-2014-07-28_22-06-42__95.jpg, id=255, 260.172pt x 195.129pt>
 File: ./photos/x-s-2014-07-28_22-06-42__95.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-07-28_22-06-42__95.jpg>
 Package pdftex.def Info: ./photos/x-s-2014-07-28_22-06-42__95.jpg used on input
  line 15.
 (pdftex.def)             Requested size: 350.99762pt x 263.26091pt.
-) (./07_29.tex [30 <./photos/x-s-2014-07-28_22-06-42__95.jpg>]
-<./photos/x-s-2014-07-29_13-44-46__150.jpg, id=237, 650.43pt x 433.62pt>
+) (./07_29.tex [36 <./photos/x-s-2014-07-28_22-06-42__95.jpg>]
+<./photos/x-s-2014-07-29_13-44-46__150.jpg, id=262, 650.43pt x 433.62pt>
 File: ./photos/x-s-2014-07-29_13-44-46__150.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-07-29_13-44-46__150.jpg>
@@ -2761,7 +2830,7 @@ t line 9.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./photos/x-s-2014-07-29_20-02-07__176.jpg, id=238, 650.43pt x 433.62pt>
+<./photos/x-s-2014-07-29_20-02-07__176.jpg, id=263, 650.43pt x 433.62pt>
 File: ./photos/x-s-2014-07-29_20-02-07__176.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-07-29_20-02-07__176.jpg>
@@ -2772,7 +2841,7 @@ t line 13.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./photos/x-s-2014-07-29_21-09-00__114.jpg, id=239, 650.43pt x 174.6525pt>
+<./photos/x-s-2014-07-29_21-09-00__114.jpg, id=264, 650.43pt x 174.6525pt>
 File: ./photos/x-s-2014-07-29_21-09-00__114.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-07-29_21-09-00__114.jpg>
@@ -2783,14 +2852,14 @@ t line 14.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[31
+[37
 
-]) (./07_30.tex [32 <./photos/x-s-2014-07-29_13-44-46__150.jpg>] [33 <./photos/
+]) (./07_30.tex [38 <./photos/x-s-2014-07-29_13-44-46__150.jpg>] [39 <./photos/
 x-s-2014-07-29_20-02-07__176.jpg> <./photos/x-s-2014-07-29_21-09-00__114.jpg>] 
-[34
+[40
 
 ]
-<./photos/x-s-2014-07-30_08-48-02__59.jpg, id=261, 650.43pt x 365.365pt>
+<./photos/x-s-2014-07-30_08-48-02__59.jpg, id=286, 650.43pt x 365.365pt>
 File: ./photos/x-s-2014-07-30_08-48-02__59.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-07-30_08-48-02__59.jpg>
@@ -2806,8 +2875,12 @@ File: ./icons/bulb.png Graphic file (type png)
 <use ./icons/bulb.png>
 Package pdftex.def Info: ./icons/bulb.png used on input line 11.
 (pdftex.def)             Requested size: 56.9055pt x 56.90385pt.
- [35]
-<./photos/x-s-2014-07-30_16-10-44__60.jpg, id=267, 650.43pt x 365.365pt>
+
+
+LaTeX Warning: Reference `mdf@pagelabel-15' on page 41 undefined on input line 
+11.
+
+[41] <./photos/x-s-2014-07-30_16-10-44__60.jpg, id=293, 650.43pt x 365.365pt>
 File: ./photos/x-s-2014-07-30_16-10-44__60.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-07-30_16-10-44__60.jpg>
@@ -2818,8 +2891,8 @@ Package pdftex.def Info: ./photos/x-s-2014-07-30_16-10-44__60.jpg used on input
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[36 <./photos/x-s-2014-07-30_08-48-02__59.jpg>]
-<./photos/x-s-2014-07-30_23-04-25__117.jpg, id=273, 260.172pt x 195.129pt>
+[42 <./photos/x-s-2014-07-30_08-48-02__59.jpg>]
+<./photos/x-s-2014-07-30_23-04-25__117.jpg, id=299, 260.172pt x 195.129pt>
 File: ./photos/x-s-2014-07-30_23-04-25__117.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-07-30_23-04-25__117.jpg>
@@ -2830,11 +2903,11 @@ t line 27.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) (./07_31.tex [37 <./photos/x-s-2014-07-30_16-10-44__60.jpg>] [38 <./photos/x-
-s-2014-07-30_23-04-25__117.jpg>] [39
+) (./07_31.tex [43 <./photos/x-s-2014-07-30_16-10-44__60.jpg>] [44 <./photos/x-
+s-2014-07-30_23-04-25__117.jpg>] [45
 
 ]
-<./photos/x-s-2014-07-31_10-44-48__131.jpg, id=291, 260.172pt x 195.129pt>
+<./photos/x-s-2014-07-31_10-44-48__131.jpg, id=317, 260.172pt x 195.129pt>
 File: ./photos/x-s-2014-07-31_10-44-48__131.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-07-31_10-44-48__131.jpg>
@@ -2846,9 +2919,13 @@ File: ./icons/question.png Graphic file (type png)
  <use ./icons/question.png>
 Package pdftex.def Info: ./icons/question.png used on input line 13.
 (pdftex.def)             Requested size: 56.9055pt x 56.90385pt.
+
+
+LaTeX Warning: Reference `mdf@pagelabel-16' on page 46 undefined on input line 
+13.
+
 Package mdframed Info: mdframed works in twoside mode on input line 18.
 File: ./icons/bulb.png Graphic file (type png)
-
 <use ./icons/bulb.png>
 Package pdftex.def Info: ./icons/bulb.png used on input line 18.
 (pdftex.def)             Requested size: 56.9055pt x 56.90385pt.
@@ -3282,8 +3359,12 @@ Package mdframed Warning: correct box splittet fails
 Package mdframed Info: You first box width is to small
  mdframed fixed it
 (mdframed)              on input line 18.
-[40 <./photos/x-s-2014-07-31_10-44-48__131.jpg>]
-<./photos/x-s-2014-07-31_19-57-52__224.jpg, id=300, 650.43pt x 433.62pt>
+[46 <./photos/x-s-2014-07-31_10-44-48__131.jpg>]
+
+LaTeX Warning: Reference `mdf@pagelabel-17' on page 47 undefined on input line 
+18.
+
+<./photos/x-s-2014-07-31_19-57-52__224.jpg, id=325, 650.43pt x 433.62pt>
 File: ./photos/x-s-2014-07-31_19-57-52__224.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-07-31_19-57-52__224.jpg>
@@ -3294,7 +3375,7 @@ t line 27.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./photos/x-s-2014-07-31_21-33-03__148.jpg, id=301, 650.43pt x 163.61125pt>
+<./photos/x-s-2014-07-31_21-33-03__148.jpg, id=326, 650.43pt x 163.61125pt>
 File: ./photos/x-s-2014-07-31_21-33-03__148.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-07-31_21-33-03__148.jpg>
@@ -3305,7 +3386,7 @@ t line 29.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./photos/x-s-2014-07-31_22-48-21__226.jpg, id=302, 650.43pt x 433.62pt>
+<./photos/x-s-2014-07-31_22-48-21__226.jpg, id=327, 650.43pt x 433.62pt>
 File: ./photos/x-s-2014-07-31_22-48-21__226.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-07-31_22-48-21__226.jpg>
@@ -3316,9 +3397,9 @@ t line 35.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) (./08_01.tex [41] [42 <./photos/x-s-2014-07-31_19-57-52__224.jpg> <./photos/x
--s-2014-07-31_21-33-03__148.jpg>] [43 <./photos/x-s-2014-07-31_22-48-21__226.jp
-g>] [44
+) [47] (./08_01.tex [48 <./photos/x-s-2014-07-31_19-57-52__224.jpg> <./photos/x
+-s-2014-07-31_21-33-03__148.jpg>] [49 <./photos/x-s-2014-07-31_22-48-21__226.jp
+g>] [50
 
 ]
 Package mdframed Info: mdframed works in twoside mode on input line 5.
@@ -3327,7 +3408,11 @@ File: ./icons/bulb.png Graphic file (type png)
 Package pdftex.def Info: ./icons/bulb.png used on input line 5.
 (pdftex.def)             Requested size: 56.9055pt x 56.90385pt.
 
-<./photos/x-s-2014-08-01_12-46-26__149.jpg, id=326, 260.172pt x 195.129pt>
+
+LaTeX Warning: Reference `mdf@pagelabel-18' on page 51 undefined on input line 
+5.
+
+<./photos/x-s-2014-08-01_12-46-26__149.jpg, id=351, 260.172pt x 195.129pt>
 File: ./photos/x-s-2014-08-01_12-46-26__149.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-08-01_12-46-26__149.jpg>
@@ -3338,7 +3423,7 @@ t line 11.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./photos/x-s-2014-08-01_14-36-57__233.jpg, id=327, 650.43pt x 433.62pt>
+<./photos/x-s-2014-08-01_14-36-57__233.jpg, id=352, 650.43pt x 433.62pt>
 File: ./photos/x-s-2014-08-01_14-36-57__233.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-08-01_14-36-57__233.jpg>
@@ -3349,8 +3434,8 @@ t line 12.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[45]
-<./photos/x-s-2014-08-01_16-07-31__155.jpg, id=333, 260.172pt x 195.129pt>
+[51]
+<./photos/x-s-2014-08-01_16-07-31__155.jpg, id=358, 260.172pt x 195.129pt>
 File: ./photos/x-s-2014-08-01_16-07-31__155.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-08-01_16-07-31__155.jpg>
@@ -3366,10 +3451,13 @@ File: ./icons/bulb.png Graphic file (type png)
 <use ./icons/bulb.png>
 Package pdftex.def Info: ./icons/bulb.png used on input line 24.
 (pdftex.def)             Requested size: 56.9055pt x 56.90385pt.
- [46 <./photos/x-s-2014-08-01_12-46-26__149.jpg>]
+ [52 <./photos/x-s-2014-08-01_12-46-26__149.jpg>]
+
+LaTeX Warning: Reference `mdf@pagelabel-19' on page 53 undefined on input line 
+24.
+
 Package mdframed Info: mdframed works in twoside mode on input line 28.
 File: ./icons/bulb.png Graphic file (type png)
-
 <use ./icons/bulb.png>
 Package pdftex.def Info: ./icons/bulb.png used on input line 28.
 (pdftex.def)             Requested size: 56.9055pt x 56.90385pt.
@@ -3792,8 +3880,12 @@ Package mdframed Warning: correct box splittet fails
 Package mdframed Info: You first box width is to small
  mdframed fixed it
 (mdframed)              on input line 28.
-[47 <./photos/x-s-2014-08-01_14-36-57__233.jpg>]
-<./photos/x-s-2014-08-01_21-44-01__65.jpg, id=344, 650.43pt x 365.365pt>
+[53 <./photos/x-s-2014-08-01_14-36-57__233.jpg>]
+
+LaTeX Warning: Reference `mdf@pagelabel-20' on page 54 undefined on input line 
+28.
+
+<./photos/x-s-2014-08-01_21-44-01__65.jpg, id=369, 650.43pt x 365.365pt>
 File: ./photos/x-s-2014-08-01_21-44-01__65.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-08-01_21-44-01__65.jpg>
@@ -3804,8 +3896,8 @@ Package pdftex.def Info: ./photos/x-s-2014-08-01_21-44-01__65.jpg used on input
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) (./08_02.tex [48 <./photos/x-s-2014-08-01_16-07-31__155.jpg>] [49 <./photos/x
--s-2014-08-01_21-44-01__65.jpg>] [50
+) (./08_02.tex [54 <./photos/x-s-2014-08-01_16-07-31__155.jpg>] [55 <./photos/x
+-s-2014-08-01_21-44-01__65.jpg>] [56
 
 ]
 Package mdframed Info: mdframed works in twoside mode on input line 3.
@@ -3813,22 +3905,30 @@ File: ./icons/bulb.png Graphic file (type png)
  <use ./icons/bulb.png>
 Package pdftex.def Info: ./icons/bulb.png used on input line 3.
 (pdftex.def)             Requested size: 56.9055pt x 56.90385pt.
+
+
+LaTeX Warning: Reference `mdf@pagelabel-21' on page 57 undefined on input line 
+3.
+
 Package mdframed Info: mdframed works in twoside mode on input line 9.
 File: ./icons/bulb.png Graphic file (type png)
-
 <use ./icons/bulb.png>
 Package pdftex.def Info: ./icons/bulb.png used on input line 9.
 (pdftex.def)             Requested size: 56.9055pt x 56.90385pt.
- [51]
-<./photos/x-s-2014-08-02_12-14-29__66.jpg, id=365, 650.43pt x 365.365pt>
+
+
+LaTeX Warning: Reference `mdf@pagelabel-22' on page 57 undefined on input line 
+9.
+
+[57] <./photos/x-s-2014-08-02_12-14-29__66.jpg, id=390, 650.43pt x 365.365pt>
 File: ./photos/x-s-2014-08-02_12-14-29__66.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-08-02_12-14-29__66.jpg>
 Package pdftex.def Info: ./photos/x-s-2014-08-02_12-14-29__66.jpg used on input
  line 15.
 (pdftex.def)             Requested size: 350.99762pt x 197.17151pt.
-) (./08_03.tex [52 <./photos/x-s-2014-08-02_12-14-29__66.jpg>]
-<./photos/x-s-2014-08-03_16-23-04__68.jpg, id=371, 650.43pt x 365.365pt>
+) (./08_03.tex [58 <./photos/x-s-2014-08-02_12-14-29__66.jpg>]
+<./photos/x-s-2014-08-03_16-23-04__68.jpg, id=396, 650.43pt x 365.365pt>
 File: ./photos/x-s-2014-08-03_16-23-04__68.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-08-03_16-23-04__68.jpg>
@@ -3839,7 +3939,7 @@ Package pdftex.def Info: ./photos/x-s-2014-08-03_16-23-04__68.jpg used on input
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./photos/x-s-2014-08-03_18-53-50__165.jpg, id=372, 260.172pt x 195.129pt>
+<./photos/x-s-2014-08-03_18-53-50__165.jpg, id=397, 260.172pt x 195.129pt>
 File: ./photos/x-s-2014-08-03_18-53-50__165.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-08-03_18-53-50__165.jpg>
@@ -3850,7 +3950,7 @@ t line 17.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./photos/x-s-2014-08-03_21-01-14__259.jpg, id=373, 650.43pt x 433.62pt>
+<./photos/x-s-2014-08-03_21-01-14__259.jpg, id=398, 650.43pt x 433.62pt>
 File: ./photos/x-s-2014-08-03_21-01-14__259.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-08-03_21-01-14__259.jpg>
@@ -3867,12 +3967,16 @@ File: ./icons/bulb.png Graphic file (type png)
 Package pdftex.def Info: ./icons/bulb.png used on input line 20.
 (pdftex.def)             Requested size: 56.9055pt x 56.90385pt.
 Package mdframed Info: Not enough space on this page on input line 20.
- [53
+ [59
 
 ]
 Package mdframed Info: Not enough space on this page on input line 20.
 
-<./photos/x-s-2014-08-03_17-01-48__71.jpg, id=379, 650.43pt x 365.365pt>
+
+LaTeX Warning: Reference `mdf@pagelabel-23' on page 60 undefined on input line 
+20.
+
+<./photos/x-s-2014-08-03_17-01-48__71.jpg, id=404, 650.43pt x 365.365pt>
 File: ./photos/x-s-2014-08-03_17-01-48__71.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-08-03_17-01-48__71.jpg>
@@ -3883,8 +3987,8 @@ Package pdftex.def Info: ./photos/x-s-2014-08-03_17-01-48__71.jpg used on input
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[54 <./photos/x-s-2014-08-03_16-23-04__68.jpg>]
-<./photos/x-s-2014-08-04_00-51-09__268.jpg, id=385, 650.43pt x 433.62pt>
+[60 <./photos/x-s-2014-08-03_16-23-04__68.jpg>]
+<./photos/x-s-2014-08-04_00-51-09__268.jpg, id=410, 650.43pt x 433.62pt>
 File: ./photos/x-s-2014-08-04_00-51-09__268.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-08-04_00-51-09__268.jpg>
@@ -3895,7 +3999,7 @@ t line 34.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./photos/x-s-2014-08-04_08-37-36__75.jpg, id=386, 650.43pt x 365.365pt>
+<./photos/x-s-2014-08-04_08-37-36__75.jpg, id=411, 650.43pt x 365.365pt>
 File: ./photos/x-s-2014-08-04_08-37-36__75.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-08-04_08-37-36__75.jpg>
@@ -4335,17 +4439,25 @@ Package mdframed Warning: correct box splittet fails
 Package mdframed Info: You first box width is to small
  mdframed fixed it
 (mdframed)              on input line 37.
-[55 <./photos/x-s-2014-08-03_18-53-50__165.jpg>]) (./08_04.tex [56 <./photos/x-
-s-2014-08-03_21-01-14__259.jpg>] [57 <./photos/x-s-2014-08-03_17-01-48__71.jpg>
- <./photos/x-s-2014-08-04_00-51-09__268.jpg>] [58 <./photos/x-s-2014-08-04_08-3
-7-36__75.jpg>]
+[61 <./photos/x-s-2014-08-03_18-53-50__165.jpg>]
+
+LaTeX Warning: Reference `mdf@pagelabel-24' on page 62 undefined on input line 
+37.
+
+) (./08_04.tex [62 <./photos/x-s-2014-08-03_21-01-14__259.jpg>] [63 <./photos/x
+-s-2014-08-03_17-01-48__71.jpg> <./photos/x-s-2014-08-04_00-51-09__268.jpg>]
+[64 <./photos/x-s-2014-08-04_08-37-36__75.jpg>]
 Package mdframed Info: mdframed works in twoside mode on input line 7.
 File: ./icons/bulb.png Graphic file (type png)
  <use ./icons/bulb.png>
 Package pdftex.def Info: ./icons/bulb.png used on input line 7.
 (pdftex.def)             Requested size: 56.9055pt x 56.90385pt.
 
-<./photos/x-s-2014-08-03_19-52-17__253.jpg, id=409, 650.43pt x 433.62pt>
+
+LaTeX Warning: Reference `mdf@pagelabel-25' on page 65 undefined on input line 
+7.
+
+<./photos/x-s-2014-08-03_19-52-17__253.jpg, id=434, 650.43pt x 433.62pt>
 File: ./photos/x-s-2014-08-03_19-52-17__253.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-08-03_19-52-17__253.jpg>
@@ -4356,7 +4468,7 @@ t line 9.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./photos/x-s-2014-08-04_12-53-21__269.jpg, id=410, 650.43pt x 433.62pt>
+<./photos/x-s-2014-08-04_12-53-21__269.jpg, id=435, 650.43pt x 433.62pt>
 File: ./photos/x-s-2014-08-04_12-53-21__269.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-08-04_12-53-21__269.jpg>
@@ -4367,9 +4479,9 @@ t line 10.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[59
+[65
 
-] <./photos/x-s-2014-08-04_14-45-35__271.jpg, id=418, 650.43pt x 433.62pt>
+] <./photos/x-s-2014-08-04_14-45-35__271.jpg, id=444, 650.43pt x 433.62pt>
 File: ./photos/x-s-2014-08-04_14-45-35__271.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-08-04_14-45-35__271.jpg>
@@ -4380,7 +4492,7 @@ t line 14.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./photos/x-s-2014-08-05_15-25-57__283.jpg, id=419, 650.43pt x 433.62pt>
+<./photos/x-s-2014-08-05_15-25-57__283.jpg, id=445, 650.43pt x 433.62pt>
 File: ./photos/x-s-2014-08-05_15-25-57__283.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-08-05_15-25-57__283.jpg>
@@ -4394,14 +4506,18 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 Underfull \vbox (badness 2368) has occurred while \output is active []
 
- [60 <./photos/x-s-2014-08-03_19-52-17__253.jpg>]
+ [66 <./photos/x-s-2014-08-03_19-52-17__253.jpg>]
 Package mdframed Info: mdframed works in twoside mode on input line 24.
 File: ./icons/question.png Graphic file (type png)
  <use ./icons/question.png>
 Package pdftex.def Info: ./icons/question.png used on input line 24.
 (pdftex.def)             Requested size: 56.9055pt x 56.90385pt.
 
-<./photos/x-s-2014-08-04_20-35-49__186.jpg, id=426, 260.172pt x 195.129pt>
+
+LaTeX Warning: Reference `mdf@pagelabel-26' on page 67 undefined on input line 
+24.
+
+<./photos/x-s-2014-08-04_20-35-49__186.jpg, id=452, 260.172pt x 195.129pt>
 File: ./photos/x-s-2014-08-04_20-35-49__186.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-08-04_20-35-49__186.jpg>
@@ -4412,7 +4528,7 @@ t line 26.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./photos/x-s-IMG_20140804_203225178.jpg, id=427, 650.43pt x 366.36874pt>
+<./photos/x-s-IMG_20140804_203225178.jpg, id=453, 650.43pt x 366.36874pt>
 File: ./photos/x-s-IMG_20140804_203225178.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-IMG_20140804_203225178.jpg>
@@ -4423,15 +4539,19 @@ line 27.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[61 <./photos/x-s-2014-08-04_12-53-21__269.jpg>]
+[67 <./photos/x-s-2014-08-04_12-53-21__269.jpg>]
 Package mdframed Info: mdframed works in twoside mode on input line 35.
 File: ./icons/bulb.png Graphic file (type png)
  <use ./icons/bulb.png>
 Package pdftex.def Info: ./icons/bulb.png used on input line 35.
 (pdftex.def)             Requested size: 56.9055pt x 56.90385pt.
+
+
+LaTeX Warning: Reference `mdf@pagelabel-27' on page 68 undefined on input line 
+35.
+
 Package mdframed Info: mdframed works in twoside mode on input line 39.
 File: ./icons/bulb.png Graphic file (type png)
-
 <use ./icons/bulb.png>
 Package pdftex.def Info: ./icons/bulb.png used on input line 39.
 (pdftex.def)             Requested size: 56.9055pt x 56.90385pt.
@@ -4450,19 +4570,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 39--39
 []$\T1/cmtt/m/n/12 http : / / www . vatnajokulsthjodgardur . is / media /
  []
 
-[62 <./photos/x-s-2014-08-04_14-45-35__271.jpg>]
+[68 <./photos/x-s-2014-08-04_14-45-35__271.jpg>]
 Package mdframed Info: Not enough space on this page on input line 39.
-) (./08_05.tex [63 <./photos/x-s-2014-08-05_15-25-57__283.jpg>] [64 <./photos/x
+
+
+LaTeX Warning: Reference `mdf@pagelabel-28' on page 69 undefined on input line 
+39.
+
+) (./08_05.tex [69 <./photos/x-s-2014-08-05_15-25-57__283.jpg>] [70 <./photos/x
 -s-2014-08-04_20-35-49__186.jpg> <./photos/x-s-IMG_20140804_203225178.jpg>]
 Package mdframed Info: mdframed works in twoside mode on input line 13.
 File: ./icons/bulb.png Graphic file (type png)
- <use ./icons/bulb.png>
+
+<use ./icons/bulb.png>
 Package pdftex.def Info: ./icons/bulb.png used on input line 13.
 (pdftex.def)             Requested size: 56.9055pt x 56.90385pt.
- [65
+ [71
 
 ]
-<./photos/x-s-2014-08-05_20-57-16__190.jpg, id=458, 260.172pt x 195.129pt>
+
+LaTeX Warning: Reference `mdf@pagelabel-29' on page 72 undefined on input line 
+13.
+
+<./photos/x-s-2014-08-05_20-57-16__190.jpg, id=483, 260.172pt x 195.129pt>
 File: ./photos/x-s-2014-08-05_20-57-16__190.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-08-05_20-57-16__190.jpg>
@@ -4470,7 +4600,7 @@ Package pdftex.def Info: ./photos/x-s-2014-08-05_20-57-16__190.jpg used on inpu
 t line 15.
 (pdftex.def)             Requested size: 350.99762pt x 263.26091pt.
 
-<./photos/x-s-2014-08-05_20-57-32__192.jpg, id=459, 260.172pt x 195.129pt>
+<./photos/x-s-2014-08-05_20-57-32__192.jpg, id=484, 260.172pt x 195.129pt>
 File: ./photos/x-s-2014-08-05_20-57-32__192.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-08-05_20-57-32__192.jpg>
@@ -4481,11 +4611,11 @@ t line 16.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[66 <./photos/x-s-2014-08-05_20-57-16__190.jpg>]
+[72 <./photos/x-s-2014-08-05_20-57-16__190.jpg>]
 Underfull \vbox (badness 2213) has occurred while \output is active []
 
- [67 <./photos/x-s-2014-08-05_20-57-32__192.jpg>]
-<./photos/x-s-2014-08-05_20-01-34__79.jpg, id=471, 650.43pt x 365.365pt>
+ [73 <./photos/x-s-2014-08-05_20-57-32__192.jpg>]
+<./photos/x-s-2014-08-05_20-01-34__79.jpg, id=496, 650.43pt x 365.365pt>
 File: ./photos/x-s-2014-08-05_20-01-34__79.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-08-05_20-01-34__79.jpg>
@@ -4493,7 +4623,7 @@ Package pdftex.def Info: ./photos/x-s-2014-08-05_20-01-34__79.jpg used on input
  line 26.
 (pdftex.def)             Requested size: 350.99762pt x 197.17151pt.
 
-<./photos/x-s-2014-08-06_10-44-32__81.jpg, id=472, 650.43pt x 365.365pt>
+<./photos/x-s-2014-08-06_10-44-32__81.jpg, id=497, 650.43pt x 365.365pt>
 File: ./photos/x-s-2014-08-06_10-44-32__81.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-08-06_10-44-32__81.jpg>
@@ -4504,11 +4634,11 @@ Package pdftex.def Info: ./photos/x-s-2014-08-06_10-44-32__81.jpg used on input
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) (./08_06.tex [68 <./photos/x-s-2014-08-05_20-01-34__79.jpg>] [69 <./photos/x-
-s-2014-08-06_10-44-32__81.jpg>] [70
+) (./08_06.tex [74 <./photos/x-s-2014-08-05_20-01-34__79.jpg>] [75 <./photos/x-
+s-2014-08-06_10-44-32__81.jpg>] [76
 
-] [71]
-<./photos/x-s-2014-08-06_21-22-05__198.jpg, id=492, 260.172pt x 195.129pt>
+] [77]
+<./photos/x-s-2014-08-06_21-22-05__198.jpg, id=517, 260.172pt x 195.129pt>
 File: ./photos/x-s-2014-08-06_21-22-05__198.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-08-06_21-22-05__198.jpg>
@@ -4518,22 +4648,27 @@ t line 15.
 
 Underfull \vbox (badness 1527) has occurred while \output is active []
 
- [72 <./photos/x-s-2014-08-06_21-22-05__198.jpg>]
-<./photos/x-s-2014-08-06_23-46-58__308.jpg, id=498, 650.43pt x 433.62pt>
+ [78 <./photos/x-s-2014-08-06_21-22-05__198.jpg>]
+<./photos/x-s-2014-08-06_23-46-58__308.jpg, id=523, 650.43pt x 433.62pt>
 File: ./photos/x-s-2014-08-06_23-46-58__308.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-08-06_23-46-58__308.jpg>
 Package pdftex.def Info: ./photos/x-s-2014-08-06_23-46-58__308.jpg used on inpu
 t line 23.
 (pdftex.def)             Requested size: 350.99762pt x 234.00575pt.
- [73 <./photos/x-s-2014-08-06_23-46-58__308.jpg>]
+ [79 <./photos/x-s-2014-08-06_23-46-58__308.jpg>]
 Package mdframed Info: mdframed works in twoside mode on input line 29.
 File: ./icons/bulb.png Graphic file (type png)
  <use ./icons/bulb.png>
 Package pdftex.def Info: ./icons/bulb.png used on input line 29.
 (pdftex.def)             Requested size: 56.9055pt x 56.90385pt.
-) (./08_07.tex [74]
-<./photos/x-s-2014-08-07_10-26-01__82.jpg, id=512, 650.43pt x 365.365pt>
+
+
+LaTeX Warning: Reference `mdf@pagelabel-30' on page 80 undefined on input line 
+29.
+
+) (./08_07.tex [80]
+<./photos/x-s-2014-08-07_10-26-01__82.jpg, id=537, 650.43pt x 365.365pt>
 File: ./photos/x-s-2014-08-07_10-26-01__82.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-08-07_10-26-01__82.jpg>
@@ -4541,7 +4676,7 @@ Package pdftex.def Info: ./photos/x-s-2014-08-07_10-26-01__82.jpg used on input
  line 7.
 (pdftex.def)             Requested size: 350.99762pt x 197.17151pt.
 
-<./photos/x-s-2014-08-07_15-19-08__209.jpg, id=513, 260.172pt x 195.129pt>
+<./photos/x-s-2014-08-07_15-19-08__209.jpg, id=538, 260.172pt x 195.129pt>
 File: ./photos/x-s-2014-08-07_15-19-08__209.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-08-07_15-19-08__209.jpg>
@@ -4552,10 +4687,10 @@ t line 8.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[75
+[81
 
  <./photos/x-s-2014-08-07_10-26-01__82.jpg>]
-<./photos/x-s-2014-08-07_19-54-58__84.jpg, id=520, 650.43pt x 1158.3275pt>
+<./photos/x-s-2014-08-07_19-54-58__84.jpg, id=545, 650.43pt x 1158.3275pt>
 File: ./photos/x-s-2014-08-07_19-54-58__84.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-08-07_19-54-58__84.jpg>
@@ -4569,25 +4704,29 @@ LaTeX Warning: Float too large for page by 57.59868pt on input line 23.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[76 <./photos/x-s-2014-08-07_15-19-08__209.jpg>]) (./08_08.tex [77] [78 <./phot
+[82 <./photos/x-s-2014-08-07_15-19-08__209.jpg>]) (./08_08.tex [83] [84 <./phot
 os/x-s-2014-08-07_19-54-58__84.jpg>]
 Package mdframed Info: mdframed works in twoside mode on input line 7.
 File: ./icons/bulb.png Graphic file (type png)
  <use ./icons/bulb.png>
 Package pdftex.def Info: ./icons/bulb.png used on input line 7.
 (pdftex.def)             Requested size: 56.9055pt x 56.90385pt.
- [79
 
-]
-<./photos/x-s-2014-08-08_15-56-24__85.jpg, id=545, 650.43pt x 365.365pt>
+
+LaTeX Warning: Reference `mdf@pagelabel-31' on page 85 undefined on input line 
+7.
+
+[85
+
+] <./photos/x-s-2014-08-08_15-56-24__85.jpg, id=570, 650.43pt x 365.365pt>
 File: ./photos/x-s-2014-08-08_15-56-24__85.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-08-08_15-56-24__85.jpg>
 Package pdftex.def Info: ./photos/x-s-2014-08-08_15-56-24__85.jpg used on input
  line 13.
 (pdftex.def)             Requested size: 350.99762pt x 197.17151pt.
- [80 <./photos/x-s-2014-08-08_15-56-24__85.jpg>]
-<./photos/x-s-2014-08-08_22-33-14__86.jpg, id=551, 650.43pt x 365.365pt>
+ [86 <./photos/x-s-2014-08-08_15-56-24__85.jpg>]
+<./photos/x-s-2014-08-08_22-33-14__86.jpg, id=576, 650.43pt x 365.365pt>
 File: ./photos/x-s-2014-08-08_22-33-14__86.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-08-08_22-33-14__86.jpg>
@@ -4598,15 +4737,15 @@ Package pdftex.def Info: ./photos/x-s-2014-08-08_22-33-14__86.jpg used on input
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) (./08_09.tex [81] [82 <./photos/x-s-2014-08-08_22-33-14__86.jpg>]
-<./photos/x-s-2014-08-09_12-33-43__88.jpg, id=561, 650.43pt x 365.365pt>
+) (./08_09.tex [87] [88 <./photos/x-s-2014-08-08_22-33-14__86.jpg>]
+<./photos/x-s-2014-08-09_12-33-43__88.jpg, id=587, 650.43pt x 365.365pt>
 File: ./photos/x-s-2014-08-09_12-33-43__88.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-08-09_12-33-43__88.jpg>
 Package pdftex.def Info: ./photos/x-s-2014-08-09_12-33-43__88.jpg used on input
  line 9.
 (pdftex.def)             Requested size: 350.99762pt x 197.17151pt.
- [83
+ [89
 
  <./photos/x-s-2014-08-09_12-33-43__88.jpg>]
 Overfull \hbox (4.11612pt too wide) in paragraph at lines 13--14
@@ -4614,7 +4753,7 @@ Overfull \hbox (4.11612pt too wide) in paragraph at lines 13--14
 -sta-ðir. Moim
  []
 
-<./photos/x-s-2014-08-09_16-03-32__215.jpg, id=568, 260.172pt x 195.129pt>
+<./photos/x-s-2014-08-09_16-03-32__215.jpg, id=594, 260.172pt x 195.129pt>
 File: ./photos/x-s-2014-08-09_16-03-32__215.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-08-09_16-03-32__215.jpg>
@@ -4622,7 +4761,7 @@ Package pdftex.def Info: ./photos/x-s-2014-08-09_16-03-32__215.jpg used on inpu
 t line 15.
 (pdftex.def)             Requested size: 350.99762pt x 263.26091pt.
 
-<./photos/x-s-2014-08-09_16-10-39__318.jpg, id=569, 650.43pt x 433.62pt>
+<./photos/x-s-2014-08-09_16-10-39__318.jpg, id=595, 650.43pt x 433.62pt>
 File: ./photos/x-s-2014-08-09_16-10-39__318.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-08-09_16-10-39__318.jpg>
@@ -4633,11 +4772,11 @@ t line 16.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[84 <./photos/x-s-2014-08-09_16-03-32__215.jpg>]
+[90 <./photos/x-s-2014-08-09_16-03-32__215.jpg>]
 Underfull \vbox (badness 1210) has occurred while \output is active []
 
- [85 <./photos/x-s-2014-08-09_16-10-39__318.jpg>]
-<./photos/x-s-2014-08-09_19-12-20__89.jpg, id=581, 650.43pt x 365.365pt>
+ [91 <./photos/x-s-2014-08-09_16-10-39__318.jpg>]
+<./photos/x-s-2014-08-09_19-12-20__89.jpg, id=607, 650.43pt x 365.365pt>
 File: ./photos/x-s-2014-08-09_19-12-20__89.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-08-09_19-12-20__89.jpg>
@@ -4645,7 +4784,7 @@ Package pdftex.def Info: ./photos/x-s-2014-08-09_19-12-20__89.jpg used on input
  line 26.
 (pdftex.def)             Requested size: 350.99762pt x 197.17151pt.
 
-<./photos/x-s-2014-08-10_00-02-44__327.jpg, id=582, 650.43pt x 433.62pt>
+<./photos/x-s-2014-08-10_00-02-44__327.jpg, id=608, 650.43pt x 433.62pt>
 File: ./photos/x-s-2014-08-10_00-02-44__327.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-08-10_00-02-44__327.jpg>
@@ -4661,18 +4800,26 @@ File: ./icons/bulb.png Graphic file (type png)
 <use ./icons/bulb.png>
 Package pdftex.def Info: ./icons/bulb.png used on input line 33.
 (pdftex.def)             Requested size: 56.9055pt x 56.90385pt.
-) (./08_10.tex [86 <./photos/x-s-2014-08-09_19-12-20__89.jpg>] [87 <./photos/x-
-s-2014-08-10_00-02-44__327.jpg>] [88
+
+
+LaTeX Warning: Reference `mdf@pagelabel-32' on page 92 undefined on input line 
+33.
+
+) (./08_10.tex [92 <./photos/x-s-2014-08-09_19-12-20__89.jpg>] [93 <./photos/x-
+s-2014-08-10_00-02-44__327.jpg>] [94
 
 ]
 Package mdframed Info: mdframed works in twoside mode on input line 7.
 File: ./icons/bulb.png Graphic file (type png)
-
-<use ./icons/bulb.png>
+ <use ./icons/bulb.png>
 Package pdftex.def Info: ./icons/bulb.png used on input line 7.
 (pdftex.def)             Requested size: 56.9055pt x 56.90385pt.
 
-<./photos/x-s-2014-08-10_13-54-57__90.jpg, id=598, 650.43pt x 1158.3275pt>
+
+LaTeX Warning: Reference `mdf@pagelabel-33' on page 95 undefined on input line 
+7.
+
+<./photos/x-s-2014-08-10_13-54-57__90.jpg, id=623, 650.43pt x 1158.3275pt>
 File: ./photos/x-s-2014-08-10_13-54-57__90.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-08-10_13-54-57__90.jpg>
@@ -4686,8 +4833,8 @@ LaTeX Warning: Float too large for page by 57.59868pt on input line 11.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[89]) (./08_11.tex [90] [91 <./photos/x-s-2014-08-10_13-54-57__90.jpg>]
-[92
+[95]) (./08_11.tex [96] [97 <./photos/x-s-2014-08-10_13-54-57__90.jpg>]
+[98
 
 ]
 Package mdframed Info: mdframed works in twoside mode on input line 3.
@@ -4696,7 +4843,11 @@ File: ./icons/question.png Graphic file (type png)
 Package pdftex.def Info: ./icons/question.png used on input line 3.
 (pdftex.def)             Requested size: 56.9055pt x 56.90385pt.
 
-<./photos/x-s-2014-08-11_15-13-41__330.jpg, id=619, 650.43pt x 433.62pt>
+
+LaTeX Warning: Reference `mdf@pagelabel-34' on page 99 undefined on input line 
+3.
+
+<./photos/x-s-2014-08-11_15-13-41__330.jpg, id=644, 650.43pt x 433.62pt>
 File: ./photos/x-s-2014-08-11_15-13-41__330.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-08-11_15-13-41__330.jpg>
@@ -4707,7 +4858,7 @@ t line 9.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./photos/x-s-2014-08-11_17-49-02__336.jpg, id=620, 650.43pt x 433.62pt>
+<./photos/x-s-2014-08-11_17-49-02__336.jpg, id=645, 650.43pt x 433.62pt>
 File: ./photos/x-s-2014-08-11_17-49-02__336.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-08-11_17-49-02__336.jpg>
@@ -4718,8 +4869,8 @@ t line 10.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[93]
-<./photos/x-s-2014-08-11_21-47-43__230.jpg, id=626, 260.172pt x 195.129pt>
+[99]
+<./photos/x-s-2014-08-11_21-47-43__230.jpg, id=651, 260.172pt x 195.129pt>
 File: ./photos/x-s-2014-08-11_21-47-43__230.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-08-11_21-47-43__230.jpg>
@@ -4733,8 +4884,8 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 Underfull \vbox (badness 1210) has occurred while \output is active []
 
- [94 <./photos/x-s-2014-08-11_15-13-41__330.jpg>]
-<./photos/x-s-2014-08-11_23-25-53__350.jpg, id=632, 650.43pt x 433.62pt>
+ [100 <./photos/x-s-2014-08-11_15-13-41__330.jpg>]
+<./photos/x-s-2014-08-11_23-25-53__350.jpg, id=657, 650.43pt x 433.62pt>
 File: ./photos/x-s-2014-08-11_23-25-53__350.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-08-11_23-25-53__350.jpg>
@@ -4745,7 +4896,7 @@ t line 26.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./photos/x-s-2014-08-12_00-52-07__354.jpg, id=633, 650.43pt x 433.62pt>
+<./photos/x-s-2014-08-12_00-52-07__354.jpg, id=658, 650.43pt x 433.62pt>
 File: ./photos/x-s-2014-08-12_00-52-07__354.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-08-12_00-52-07__354.jpg>
@@ -4756,12 +4907,12 @@ t line 27.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) (./08_12.tex [95 <./photos/x-s-2014-08-11_17-49-02__336.jpg>] [96 <./photos/x
--s-2014-08-11_21-47-43__230.jpg> <./photos/x-s-2014-08-11_23-25-53__350.jpg>]
-[97 <./photos/x-s-2014-08-12_00-52-07__354.jpg>] [98
+) (./08_12.tex [101 <./photos/x-s-2014-08-11_17-49-02__336.jpg>] [102 <./photos
+/x-s-2014-08-11_21-47-43__230.jpg> <./photos/x-s-2014-08-11_23-25-53__350.jpg>]
+[103 <./photos/x-s-2014-08-12_00-52-07__354.jpg>] [104
 
 ]
-<./photos/x-s-2014-08-13_12-13-18__234.jpg, id=655, 260.172pt x 195.129pt>
+<./photos/x-s-2014-08-13_12-13-18__234.jpg, id=680, 260.172pt x 195.129pt>
 File: ./photos/x-s-2014-08-13_12-13-18__234.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-08-13_12-13-18__234.jpg>
@@ -4772,7 +4923,7 @@ t line 11.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./photos/x-s-2014-08-13_12-42-05__235.jpg, id=656, 260.172pt x 195.129pt>
+<./photos/x-s-2014-08-13_12-42-05__235.jpg, id=681, 260.172pt x 195.129pt>
 File: ./photos/x-s-2014-08-13_12-42-05__235.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-08-13_12-42-05__235.jpg>
@@ -4783,11 +4934,11 @@ t line 12.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[99]
+[105]
 Underfull \vbox (badness 1132) has occurred while \output is active []
 
- [100 <./photos/x-s-2014-08-13_12-13-18__234.jpg>]) (./08_13.tex [101 <./photos
-/x-s-2014-08-13_12-42-05__235.jpg>] [102
+ [106 <./photos/x-s-2014-08-13_12-13-18__234.jpg>]) (./08_13.tex [107 <./photos
+/x-s-2014-08-13_12-42-05__235.jpg>] [108
 
 ]
 Package mdframed Info: mdframed works in twoside mode on input line 7.
@@ -4796,7 +4947,11 @@ File: ./icons/question.png Graphic file (type png)
 Package pdftex.def Info: ./icons/question.png used on input line 7.
 (pdftex.def)             Requested size: 56.9055pt x 56.90385pt.
 
-<./photos/x-s-2014-08-12_15-55-28__361.jpg, id=676, 650.43pt x 433.62pt>
+
+LaTeX Warning: Reference `mdf@pagelabel-35' on page 109 undefined on input line
+ 7.
+
+<./photos/x-s-2014-08-12_15-55-28__361.jpg, id=701, 650.43pt x 433.62pt>
 File: ./photos/x-s-2014-08-12_15-55-28__361.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-08-12_15-55-28__361.jpg>
@@ -4807,8 +4962,8 @@ t line 11.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[103]
-<./photos/x-s-2014-08-13_16-26-43__241.jpg, id=683, 260.172pt x 195.129pt>
+[109]
+<./photos/x-s-2014-08-13_16-26-43__241.jpg, id=708, 260.172pt x 195.129pt>
 File: ./photos/x-s-2014-08-13_16-26-43__241.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-08-13_16-26-43__241.jpg>
@@ -4822,8 +4977,8 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 Underfull \vbox (badness 1210) has occurred while \output is active []
 
- [104 <./photos/x-s-2014-08-12_15-55-28__361.jpg>]
-<./photos/x-s-2014-08-13_21-18-39__253.jpg, id=689, 260.172pt x 195.129pt>
+ [110 <./photos/x-s-2014-08-12_15-55-28__361.jpg>]
+<./photos/x-s-2014-08-13_21-18-39__253.jpg, id=714, 260.172pt x 195.129pt>
 File: ./photos/x-s-2014-08-13_21-18-39__253.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-08-13_21-18-39__253.jpg>
@@ -4834,7 +4989,7 @@ t line 27.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./photos/x-s-2014-08-13_20-47-40__249.jpg, id=690, 260.172pt x 195.129pt>
+<./photos/x-s-2014-08-13_20-47-40__249.jpg, id=715, 260.172pt x 195.129pt>
 File: ./photos/x-s-2014-08-13_20-47-40__249.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-08-13_20-47-40__249.jpg>
@@ -4848,8 +5003,8 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 Underfull \vbox (badness 2213) has occurred while \output is active []
 
- [105 <./photos/x-s-2014-08-13_16-26-43__241.jpg>]
-<./photos/x-s-2014-08-13_22-13-19__396.jpg, id=696, 650.43pt x 433.62pt>
+ [111 <./photos/x-s-2014-08-13_16-26-43__241.jpg>]
+<./photos/x-s-2014-08-13_22-13-19__396.jpg, id=721, 650.43pt x 433.62pt>
 File: ./photos/x-s-2014-08-13_22-13-19__396.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-08-13_22-13-19__396.jpg>
@@ -4860,7 +5015,7 @@ t line 34.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./photos/x-s-2014-08-13_19-49-15__97.jpg, id=697, 650.43pt x 365.365pt>
+<./photos/x-s-2014-08-13_19-49-15__97.jpg, id=722, 650.43pt x 365.365pt>
 File: ./photos/x-s-2014-08-13_19-49-15__97.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-08-13_19-49-15__97.jpg>
@@ -4874,16 +5029,20 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 Underfull \vbox (badness 1132) has occurred while \output is active []
 
- [106 <./photos/x-s-2014-08-13_21-18-39__253.jpg>]
+ [112 <./photos/x-s-2014-08-13_21-18-39__253.jpg>]
 Package mdframed Info: mdframed works in twoside mode on input line 43.
 File: ./icons/bulb.png Graphic file (type png)
  <use ./icons/bulb.png>
 Package pdftex.def Info: ./icons/bulb.png used on input line 43.
 (pdftex.def)             Requested size: 56.9055pt x 56.90385pt.
-) (./08_14.tex
-[107 <./photos/x-s-2014-08-13_20-47-40__249.jpg>] [108 <./photos/x-s-2014-08-13
-_22-13-19__396.jpg> <./photos/x-s-2014-08-13_19-49-15__97.jpg>]
-<./photos/x-s-2014-08-14_15-06-56__260.jpg, id=714, 260.172pt x 195.129pt>
+
+
+LaTeX Warning: Reference `mdf@pagelabel-36' on page 113 undefined on input line
+ 43.
+
+) (./08_14.tex [113 <./photos/x-s-2014-08-13_20-47-40__249.jpg>] [114 <./photos
+/x-s-2014-08-13_22-13-19__396.jpg> <./photos/x-s-2014-08-13_19-49-15__97.jpg>]
+<./photos/x-s-2014-08-14_15-06-56__260.jpg, id=740, 260.172pt x 195.129pt>
 File: ./photos/x-s-2014-08-14_15-06-56__260.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-08-14_15-06-56__260.jpg>
@@ -4894,7 +5053,7 @@ t line 5.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./photos/x-s-2014-08-14_15-08-38__407.jpg, id=715, 650.43pt x 433.62pt>
+<./photos/x-s-2014-08-14_15-08-38__407.jpg, id=741, 650.43pt x 433.62pt>
 File: ./photos/x-s-2014-08-14_15-08-38__407.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-08-14_15-08-38__407.jpg>
@@ -4910,10 +5069,14 @@ File: ./icons/bulb.png Graphic file (type png)
 <use ./icons/bulb.png>
 Package pdftex.def Info: ./icons/bulb.png used on input line 10.
 (pdftex.def)             Requested size: 56.9055pt x 56.90385pt.
- [109
 
-]
-<./photos/x-s-2014-08-14_16-12-19__98.jpg, id=723, 650.43pt x 365.365pt>
+
+LaTeX Warning: Reference `mdf@pagelabel-37' on page 115 undefined on input line
+ 10.
+
+[115
+
+] <./photos/x-s-2014-08-14_16-12-19__98.jpg, id=749, 650.43pt x 365.365pt>
 File: ./photos/x-s-2014-08-14_16-12-19__98.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-08-14_16-12-19__98.jpg>
@@ -4924,7 +5087,7 @@ Package pdftex.def Info: ./photos/x-s-2014-08-14_16-12-19__98.jpg used on input
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./photos/x-s-2014-08-14_18-12-22__100.jpg, id=724, 650.43pt x 365.365pt>
+<./photos/x-s-2014-08-14_18-12-22__100.jpg, id=750, 650.43pt x 365.365pt>
 File: ./photos/x-s-2014-08-14_18-12-22__100.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-08-14_18-12-22__100.jpg>
@@ -4935,7 +5098,7 @@ t line 17.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./photos/x-s-2014-08-14_19-28-50__101.jpg, id=725, 650.43pt x 365.365pt>
+<./photos/x-s-2014-08-14_19-28-50__101.jpg, id=751, 650.43pt x 365.365pt>
 File: ./photos/x-s-2014-08-14_19-28-50__101.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-08-14_19-28-50__101.jpg>
@@ -4946,15 +5109,15 @@ t line 18.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) (./08_15.tex [110 <./photos/x-s-2014-08-14_15-06-56__260.jpg>] [111 <./photos
+) (./08_15.tex [116 <./photos/x-s-2014-08-14_15-06-56__260.jpg>] [117 <./photos
 /x-s-2014-08-14_15-08-38__407.jpg> <./photos/x-s-2014-08-14_16-12-19__98.jpg>]
-[112 <./photos/x-s-2014-08-14_18-12-22__100.jpg> <./photos/x-s-2014-08-14_19-28
+[118 <./photos/x-s-2014-08-14_18-12-22__100.jpg> <./photos/x-s-2014-08-14_19-28
 -50__101.jpg>]
 Rozdzia\l  1.
-[113
+[119
 
 ]
-<./photos/x-s-2014-08-15_16-24-58__105.jpg, id=748, 650.43pt x 365.365pt>
+<./photos/x-s-2014-08-15_16-24-58__105.jpg, id=774, 650.43pt x 365.365pt>
 File: ./photos/x-s-2014-08-15_16-24-58__105.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-08-15_16-24-58__105.jpg>
@@ -4962,7 +5125,7 @@ Package pdftex.def Info: ./photos/x-s-2014-08-15_16-24-58__105.jpg used on inpu
 t line 17.
 (pdftex.def)             Requested size: 350.99762pt x 197.17151pt.
 
-<./photos/x-s-2014-08-14_22-19-41__266.jpg, id=749, 260.172pt x 195.129pt>
+<./photos/x-s-2014-08-14_22-19-41__266.jpg, id=775, 260.172pt x 195.129pt>
 File: ./photos/x-s-2014-08-14_22-19-41__266.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-08-14_22-19-41__266.jpg>
@@ -4973,11 +5136,11 @@ t line 23.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[114 <./photos/x-s-2014-08-15_16-24-58__105.jpg>]) (./08_16.tex [115 <./photos/
-x-s-2014-08-14_22-19-41__266.jpg>] [116
+[120 <./photos/x-s-2014-08-15_16-24-58__105.jpg>]) (./08_16.tex [121 <./photos/
+x-s-2014-08-14_22-19-41__266.jpg>] [122
 
 ]
-<./photos/x-s-2014-08-16_17-32-37__106.jpg, id=767, 650.43pt x 365.365pt>
+<./photos/x-s-2014-08-16_17-32-37__106.jpg, id=793, 650.43pt x 365.365pt>
 File: ./photos/x-s-2014-08-16_17-32-37__106.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-08-16_17-32-37__106.jpg>
@@ -4988,8 +5151,8 @@ t line 11.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[117]
-<./photos/x-s-2014-08-16_21-21-32__108.jpg, id=773, 650.43pt x 365.365pt>
+[123]
+<./photos/x-s-2014-08-16_21-21-32__108.jpg, id=799, 650.43pt x 365.365pt>
 File: ./photos/x-s-2014-08-16_21-21-32__108.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-08-16_21-21-32__108.jpg>
@@ -5000,7 +5163,7 @@ t line 19.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./photos/x-s-2014-08-17_00-03-06__420.jpg, id=774, 650.43pt x 433.62pt>
+<./photos/x-s-2014-08-17_00-03-06__420.jpg, id=800, 650.43pt x 433.62pt>
 File: ./photos/x-s-2014-08-17_00-03-06__420.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-08-17_00-03-06__420.jpg>
@@ -5011,11 +5174,11 @@ t line 20.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) (./08_17.tex [118 <./photos/x-s-2014-08-16_17-32-37__106.jpg>] [119 <./photos
+) (./08_17.tex [124 <./photos/x-s-2014-08-16_17-32-37__106.jpg>] [125 <./photos
 /x-s-2014-08-16_21-21-32__108.jpg> <./photos/x-s-2014-08-17_00-03-06__420.jpg>]
-[120
+[126
 
-] <./photos/x-s-2014-08-17_16-12-32__421.jpg, id=791, 650.43pt x 433.62pt>
+] <./photos/x-s-2014-08-17_16-12-32__421.jpg, id=817, 650.43pt x 433.62pt>
 File: ./photos/x-s-2014-08-17_16-12-32__421.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-08-17_16-12-32__421.jpg>
@@ -5026,21 +5189,21 @@ t line 7.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[121]
+[127]
 Underfull \vbox (badness 2368) has occurred while \output is active []
 
- [122 <./photos/x-s-2014-08-17_16-12-32__421.jpg>]
-<./photos/x-s-2014-08-17_23-52-35__112.jpg, id=803, 650.43pt x 365.365pt>
+ [128 <./photos/x-s-2014-08-17_16-12-32__421.jpg>]
+<./photos/x-s-2014-08-17_23-52-35__112.jpg, id=829, 650.43pt x 365.365pt>
 File: ./photos/x-s-2014-08-17_23-52-35__112.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-08-17_23-52-35__112.jpg>
 Package pdftex.def Info: ./photos/x-s-2014-08-17_23-52-35__112.jpg used on inpu
 t line 20.
 (pdftex.def)             Requested size: 350.99762pt x 197.17151pt.
-) (./08_18.tex [123 <./photos/x-s-2014-08-17_23-52-35__112.jpg>] [124
+) (./08_18.tex [129 <./photos/x-s-2014-08-17_23-52-35__112.jpg>] [130
 
 ]
-<./photos/x-s-2014-08-18_10-14-20__114.jpg, id=813, 650.43pt x 365.365pt>
+<./photos/x-s-2014-08-18_10-14-20__114.jpg, id=839, 650.43pt x 365.365pt>
 File: ./photos/x-s-2014-08-18_10-14-20__114.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-08-18_10-14-20__114.jpg>
@@ -5051,7 +5214,7 @@ t line 9.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./photos/x-s-2014-08-19_06-18-13__116.jpg, id=814, 650.43pt x 365.365pt>
+<./photos/x-s-2014-08-19_06-18-13__116.jpg, id=840, 650.43pt x 365.365pt>
 File: ./photos/x-s-2014-08-19_06-18-13__116.jpg Graphic file (type jpg)
 
 <use ./photos/x-s-2014-08-19_06-18-13__116.jpg>
@@ -5062,23 +5225,36 @@ t line 10.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[125])
+[131])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 144.
- [126 <./photos/x-s-2014-08-18_10-14-20__114.jpg>] [127 <./photos/x-s-2014-08-1
+ [132 <./photos/x-s-2014-08-18_10-14-20__114.jpg>] [133 <./photos/x-s-2014-08-1
 9_06-18-13__116.jpg>]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 144.
  (./iceland-diary.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 144.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 144.
-Package rerunfilecheck Info: File `iceland-diary.out' has not changed.
-(rerunfilecheck)             Checksum: 5CB23516A655E75E818AAFB5F637E604;41.
+
+
+Package rerunfilecheck Warning: File `iceland-diary.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `iceland-diary.out':
+(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
+(rerunfilecheck)             After:  5CB23516A655E75E818AAFB5F637E604;41.
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 144.
  ) 
 Here is how much of TeX's memory you used:
- 16746 strings out of 494993
- 295849 string characters out of 6180621
- 371635 words of memory out of 5000000
- 19229 multiletter control sequences out of 15000+600000
+ 16761 strings out of 494993
+ 296002 string characters out of 6180621
+ 363485 words of memory out of 5000000
+ 19228 multiletter control sequences out of 15000+600000
  24885 words of font info for 65 fonts, out of 8000000 for 9000
  34 hyphenation exceptions out of 8191
  45i,16n,79p,10427b,498s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -5086,17 +5262,17 @@ Here is how much of TeX's memory you used:
 awel/.texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600pk> </home/pawel/.texmf
 -var/fonts/pk/ljfour/jknappen/ec/ecrm1095.600pk> </home/pawel/.texmf-var/fonts/
 pk/ljfour/jknappen/ec/ecti1095.600pk> </home/pawel/.texmf-var/fonts/pk/ljfour/j
-knappen/ec/ecti1200.600pk> </home/pawel/.texmf-var/fonts/pk/ljfour/jknappen/ec/
-ectt1200.600pk> </home/pawel/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1000.60
-0pk> </home/pawel/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0700.600pk> </home
-/pawel/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0800.600pk> </home/pawel/.tex
-mf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk> </home/pawel/.texmf-var/font
-s/pk/ljfour/jknappen/ec/ecbx1728.600pk> </home/pawel/.texmf-var/fonts/pk/ljfour
-/jknappen/ec/ecbx2488.600pk>
-Output written on iceland-diary.pdf (127 pages, 12903238 bytes).
+knappen/ec/ectt1200.600pk> </home/pawel/.texmf-var/fonts/pk/ljfour/jknappen/ec/
+ecrm1000.600pk> </home/pawel/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0700.60
+0pk> </home/pawel/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0800.600pk> </home
+/pawel/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecti1200.600pk> </home/pawel/.tex
+mf-var/fonts/pk/ljfour/jknappen/ec/ecbx1728.600pk> </home/pawel/.texmf-var/font
+s/pk/ljfour/jknappen/ec/ecbx2488.600pk> </home/pawel/.texmf-var/fonts/pk/ljfour
+/jknappen/ec/ecrm1200.600pk>
+Output written on iceland-diary.pdf (133 pages, 12916564 bytes).
 PDF statistics:
- 1338 PDF objects out of 1440 (max. 8388607)
- 700 compressed objects within 7 object streams
- 261 named destinations out of 1000 (max. 500000)
- 479 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1377 PDF objects out of 1440 (max. 8388607)
+ 721 compressed objects within 8 object streams
+ 271 named destinations out of 1000 (max. 500000)
+ 471 words of extra memory for PDF output out of 10000 (max. 10000000)
 
