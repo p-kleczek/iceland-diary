@@ -2,7 +2,7 @@
 - złe umiejscowienie numeracji stron
 - niepotrzebne puste strony (bo rozdziały zaczynają się od nowej strony)
 - spójna narracja: pisać wszędzie w formie pamiętnika "z danego dnia" (np. nazajutrz => jutro , wczoraj => poprzedniego dnia)
-- zwrócić uwagę na skład (zwłaszcza sieroty i wdowy)
+- zwrócić uwagę na skład (zwłaszcza sieroty i wdowy, pojedyncze litery na końcu wierszy)
 - odstępy między akapitami + większy między różnymi logicznymi grupami akapitów
 - zadbać, by po ostatnim zdaniu nie było już żadnych zdjęć
 
@@ -11,6 +11,8 @@
 - zmienić krój czcionki na bardziej czytelny (bezszeryfowy?)
 
 - jak kodowane są wielokropki? dlaczego wstawiane są pomiedzy nie spacje?
+
+- przedstawić koncepcję oznaczania dróg (numer w ramce)
 
 
 DROBNE:
