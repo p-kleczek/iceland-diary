@@ -5,11 +5,12 @@
 
 \usepackage{fancyhdr}
 
-
 \usepackage{polski}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage[polish]{babel}
+
+\hyphenation{wszys-tko zna-ku os-ta-tecz-nie}
 
 \usepackage{versions}
 % PDF version
@@ -100,6 +101,12 @@
 
 \newcommand{\road}[1] {\fbox{#1} }
 
+\newcommand{\wink}{;-)}
+\renewcommand{\smile}{:-)}
+\newcommand{\tongue}{;-P}
+\newcommand{\sad}{:-(}
+\newcommand{\grin}{:-D}
+
 \DeclareUnicodeCharacter{B0}{\textdegree}
 
 % for file in *.tex; do sed -i "s/chapter{/chapter*{/g" $file; done
@@ -111,6 +118,9 @@
 
 % Change fonts.
 \usepackage{palatino}
+
+\usepackage{ellipsis}
+\renewcommand{\ellipsisgap}{0.05em}
 
 % Remove frames around links - use colors instead.
 \usepackage{xcolor}
@@ -124,6 +134,11 @@
 % Set spacings (between parahraph, lines etc.)
 \setlength{\parskip}{0.3em}
 \renewcommand{\baselinestretch}{1.1}
+
+\fancyhf{}
+\cfoot{--\hspace{0.3em}\thepage\hspace{0.3em}--}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0pt}
 
 \begin{document}
 	
