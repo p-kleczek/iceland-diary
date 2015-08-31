@@ -10,7 +10,7 @@
 \usepackage[T1]{fontenc}
 \usepackage[polish]{babel}
 
-\hyphenation{wszys-tko zna-ku os-ta-tecz-nie}
+\hyphenation{wszys-tko zna-ku os-ta-tecz-nie by-wa-ło}
 
 \usepackage{versions}
 % PDF version
@@ -20,7 +20,7 @@
 %\includeversion{PDF}
 %\excludeversion{HTML}
 
-%\usepackage{amsmath}
+\usepackage{amsmath}
 \usepackage{amsfonts}
 %\usepackage{amssymb}
 \usepackage{graphicx}
@@ -101,11 +101,13 @@
 
 \newcommand{\road}[1] {\fbox{#1} }
 
-\newcommand{\wink}{;-)}
-\renewcommand{\smile}{:-)}
-\newcommand{\tongue}{;-P}
-\newcommand{\sad}{:-(}
-\newcommand{\grin}{:-D}
+\newcommand{\emot}[1] {#1\,}
+
+\newcommand{\wink}{\emot{;-)}}
+\renewcommand{\smile}{\emot{:-)}}
+\newcommand{\tongue}{\emot{;-P}}
+\newcommand{\sad}{\emot{:-(}}
+\newcommand{\grin}{\emot{:-D}}
 
 \DeclareUnicodeCharacter{B0}{\textdegree}
 
@@ -119,8 +121,10 @@
 % Change fonts.
 \usepackage{palatino}
 
-\usepackage{ellipsis}
+\usepackage[xspace]{ellipsis}
 \renewcommand{\ellipsisgap}{0.05em}
+%\DeclareTextCommandDefault{\textellipsis}
+%{{\fontencoding{LY1}\selectfont\char133}}
 
 % Remove frames around links - use colors instead.
 \usepackage{xcolor}
