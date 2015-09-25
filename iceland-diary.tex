@@ -10,6 +10,19 @@
 % for file in *.png; do convert $file -rotate 90 rotated-$file; done
 
 \documentclass[12pt,a4paper,leqno,openany]{book}
+%TODO: mniejszy lewy margines (żeby był taki, jak z prawej)
+%TODO: mniejsze margines od góry i od dołu
+%TODO: numer strony w połowie odległości między końcem tekstu, a końcem strony
+
+\usepackage{geometry}
+\geometry{
+	a4paper,
+	total={210mm,297mm},
+	left=20mm,
+	right=20mm,
+	top=20mm,
+	bottom=20mm,
+}
 
 \usepackage{fancyhdr}
 
@@ -63,7 +76,7 @@
 \newmdenv[linecolor=white, backgroundcolor=LightGrey]{hintframe}
 
 \newcommand{\hint}[1] {
-%	\vspace{12pt}
+	\vspace{-10pt}
 	\noindent
 	\begingroup
  \begin{hintframe}		
